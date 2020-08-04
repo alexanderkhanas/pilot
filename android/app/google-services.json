@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "623489335153",
+    "firebase_url": "https://pilot-taxi-f570e.firebaseio.com",
+    "project_id": "pilot-taxi-f570e",
+    "storage_bucket": "pilot-taxi-f570e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623489335153:android:8d53605bf34288395cc0d0",
+        "android_client_info": {
+          "package_name": "com.pilot_taxi_ternopil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623489335153-tpqnpsoo0fg7do4v2atigk50qpseoqs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFMffwSuSX5_mpPPcpTzYsg9sC1b6heqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623489335153-tpqnpsoo0fg7do4v2atigk50qpseoqs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

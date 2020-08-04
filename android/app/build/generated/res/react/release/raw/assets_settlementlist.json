@@ -1,0 +1,478 @@
+[
+  {
+    "IDNP": "3",
+    "NAMENP": "Кутківці",
+    "SHORTNAME": "Кутківці",
+    "LATITUDE": "49.5626691",
+    "LONGITUDE": "25.5603869"
+  },
+  {
+    "IDNP": "1",
+    "NAMENP": "Тернопіль",
+    "SHORTNAME": "",
+    "LATITUDE": "",
+    "LONGITUDE": ""
+  },
+  {
+    "IDNP": "23",
+    "NAMENP": "Довжанка",
+    "SHORTNAME": "Довжанка",
+    "LATITUDE": ".",
+    "LONGITUDE": "."
+  },
+  {
+    "IDNP": "14",
+    "NAMENP": "Біла",
+    "SHORTNAME": "Біла",
+    "LATITUDE": "49.5852204",
+    "LONGITUDE": "25.57982"
+  },
+  {
+    "IDNP": "24",
+    "NAMENP": "Цукровий з-д",
+    "SHORTNAME": "Цукровий з-д",
+    "LATITUDE": "49.5099449",
+    "LONGITUDE": "25.6082779"
+  },
+  {
+    "IDNP": "4",
+    "NAMENP": "Великі Гаї",
+    "SHORTNAME": "ВГ",
+    "LATITUDE": "49.5200549",
+    "LONGITUDE": "25.6585099"
+  },
+  {
+    "IDNP": "25",
+    "NAMENP": "Шляхтинці",
+    "SHORTNAME": "Шляхтинці",
+    "LATITUDE": "49.5872797",
+    "LONGITUDE": "25.6658051"
+  },
+  {
+    "IDNP": "2",
+    "NAMENP": "Петриків",
+    "SHORTNAME": "Петриків",
+    "LATITUDE": "49.5249054",
+    "LONGITUDE": "25.5837143"
+  },
+  {
+    "IDNP": "5",
+    "NAMENP": "Підгороднє",
+    "SHORTNAME": "Підгороднє",
+    "LATITUDE": "49.5419321",
+    "LONGITUDE": "25.5210979"
+  },
+  {
+    "IDNP": "26",
+    "NAMENP": "Чистилів",
+    "SHORTNAME": "Чистилів",
+    "LATITUDE": "49.6088019",
+    "LONGITUDE": "25.5633401"
+  },
+  {
+    "IDNP": "6",
+    "NAMENP": "Пронятин",
+    "SHORTNAME": "Пронятин",
+    "LATITUDE": "49.5867573",
+    "LONGITUDE": "25.5471588"
+  },
+  {
+    "IDNP": "7",
+    "NAMENP": "Смиківці",
+    "SHORTNAME": "Смиківці",
+    "LATITUDE": "49.5344501",
+    "LONGITUDE": "25.7069563"
+  },
+  {
+    "IDNP": "8",
+    "NAMENP": "Гаї Чумакові",
+    "SHORTNAME": "ГЧ",
+    "LATITUDE": "49.5666273",
+    "LONGITUDE": "25.6597425"
+  },
+  {
+    "IDNP": "9",
+    "NAMENP": "Гаї Гречинські",
+    "SHORTNAME": "ГГ",
+    "LATITUDE": "49.5746217",
+    "LONGITUDE": "25.6501301"
+  },
+  {
+    "IDNP": "10",
+    "NAMENP": "Гаї Шевченківські",
+    "SHORTNAME": "ГШ",
+    "LATITUDE": "49.5929665",
+    "LONGITUDE": "25.6281812"
+  },
+  {
+    "IDNP": "11",
+    "NAMENP": "Великі Бірки",
+    "SHORTNAME": "Вел. Бірки",
+    "LATITUDE": "49.5201252",
+    "LONGITUDE": "25.7582480"
+  },
+  {
+    "IDNP": "27",
+    "NAMENP": "Р-н Тубдиспансер",
+    "SHORTNAME": "Р-Н ТУБДИСП.",
+    "LATITUDE": "49.521728",
+    "LONGITUDE": "25.605505"
+  },
+  {
+    "IDNP": "12",
+    "NAMENP": "Велика Березовиця",
+    "SHORTNAME": "В. Березовиця",
+    "LATITUDE": "49.5019863",
+    "LONGITUDE": "25.6112886"
+  },
+  {
+    "IDNP": "13",
+    "NAMENP": "Байківці",
+    "SHORTNAME": "Байківці",
+    "LATITUDE": "49.5613407",
+    "LONGITUDE": "25.6862759"
+  },
+  {
+    "IDNP": "28",
+    "NAMENP": "Великий Глибочок",
+    "SHORTNAME": "В.Глибочок",
+    "LATITUDE": "49.6201604",
+    "LONGITUDE": "25.5325154"
+  },
+  {
+    "IDNP": "20",
+    "NAMENP": "Гаї Ходоровські",
+    "SHORTNAME": "ГХ",
+    "LATITUDE": "49.5613407",
+    "LONGITUDE": "25.6862759"
+  },
+  {
+    "IDNP": "29",
+    "NAMENP": "Газопровід",
+    "SHORTNAME": "Газопровід",
+    "LATITUDE": ".",
+    "LONGITUDE": "."
+  },
+  {
+    "IDNP": "30",
+    "NAMENP": "Івачів Горішній",
+    "SHORTNAME": "Г ІВАЧІВ",
+    "LATITUDE": "49.6545533",
+    "LONGITUDE": "25.5195599"
+  },
+  {
+    "IDNP": "31",
+    "NAMENP": "Івачів Долішній",
+    "SHORTNAME": "Д ІВАЧІВ",
+    "LATITUDE": "49.6447239",
+    "LONGITUDE": "25.549695"
+  },
+  {
+    "IDNP": "32",
+    "NAMENP": "Ігровиця",
+    "SHORTNAME": "ІГРОВИЦЯ",
+    "LATITUDE": "49.6924578",
+    "LONGITUDE": "25.5496499"
+  },
+  {
+    "IDNP": "33",
+    "NAMENP": "Білоскірка",
+    "SHORTNAME": "БІЛОСКІРКА",
+    "LATITUDE": "49.4619746",
+    "LONGITUDE": "25.7462662"
+  },
+  {
+    "IDNP": "34",
+    "NAMENP": "Баворів",
+    "SHORTNAME": "БАВОРІВ",
+    "LATITUDE": "49.4400777",
+    "LONGITUDE": "25.7183041"
+  },
+  {
+    "IDNP": "35",
+    "NAMENP": "Буцнів",
+    "SHORTNAME": "БУЦНІВ",
+    "LATITUDE": "49.4800527",
+    "LONGITUDE": "25.5726638"
+  },
+  {
+    "IDNP": "36",
+    "NAMENP": "Велика Лука",
+    "SHORTNAME": "ВЕЛ ЛУКА",
+    "LATITUDE": "49.4478116",
+    "LONGITUDE": "25.5940726"
+  },
+  {
+    "IDNP": "37",
+    "NAMENP": "Грабовець",
+    "SHORTNAME": "ГРАБОВЕЦЬ",
+    "LATITUDE": "49.447034",
+    "LONGITUDE": "25.7404811"
+  },
+  {
+    "IDNP": "38",
+    "NAMENP": "Дичків",
+    "SHORTNAME": "ДИЧКІВ",
+    "LATITUDE": "49.5070024",
+    "LONGITUDE": "25.7285783"
+  },
+  {
+    "IDNP": "39",
+    "NAMENP": "Домаморич",
+    "SHORTNAME": "ДОМАМОРИЧ",
+    "LATITUDE": "49.5516283",
+    "LONGITUDE": "25.4246135"
+  },
+  {
+    "IDNP": "40",
+    "NAMENP": "Драганівка",
+    "SHORTNAME": "ДРАГАНІВКА",
+    "LATITUDE": "49.5085116",
+    "LONGITUDE": "25.5212082"
+  },
+  {
+    "IDNP": "41",
+    "NAMENP": "Дубівці",
+    "SHORTNAME": "ДУБІВЦІ",
+    "LATITUDE": "49.6833525",
+    "LONGITUDE": "25.6401435"
+  },
+  {
+    "IDNP": "42",
+    "NAMENP": "Жовтневе",
+    "SHORTNAME": "ЖОВТНЕВЕ",
+    "LATITUDE": "49.5588584",
+    "LONGITUDE": "25.7673383"
+  },
+  {
+    "IDNP": "43",
+    "NAMENP": "Забойки",
+    "SHORTNAME": "ЗАБОЙКИ",
+    "LATITUDE": "49.5314525",
+    "LONGITUDE": "25.4468411"
+  },
+  {
+    "IDNP": "44",
+    "NAMENP": "Застінка",
+    "SHORTNAME": "ЗАСТІНКА",
+    "LATITUDE": "49.4692832",
+    "LONGITUDE": "25.7269957"
+  },
+  {
+    "IDNP": "45",
+    "NAMENP": "Йосипівка",
+    "SHORTNAME": "ЙОСИПІВКА",
+    "LATITUDE": "49.4092885",
+    "LONGITUDE": "25.4408065"
+  },
+  {
+    "IDNP": "46",
+    "NAMENP": "Кип’ячка",
+    "SHORTNAME": "КИПЯЧКА",
+    "LATITUDE": "49.4835538",
+    "LONGITUDE": "25.7013098"
+  },
+  {
+    "IDNP": "47",
+    "NAMENP": "Козівка",
+    "SHORTNAME": "КОЗІВКА",
+    "LATITUDE": "49.3942238",
+    "LONGITUDE": "25.7966294"
+  },
+  {
+    "IDNP": "48",
+    "NAMENP": "Костянтинівка",
+    "SHORTNAME": "Костянтинівка",
+    "LATITUDE": "49.4694037",
+    "LONGITUDE": "25.8063736"
+  },
+  {
+    "IDNP": "49",
+    "NAMENP": "Красівка",
+    "SHORTNAME": "Красівка",
+    "LATITUDE": "49.4964659",
+    "LONGITUDE": "25.7271051"
+  },
+  {
+    "IDNP": "51",
+    "NAMENP": "Лозова",
+    "SHORTNAME": "Лозова",
+    "LATITUDE": "49.6106064",
+    "LONGITUDE": "25.6708764"
+  },
+  {
+    "IDNP": "52",
+    "NAMENP": "Лучка",
+    "SHORTNAME": "Лучка",
+    "LATITUDE": "49.4121746",
+    "LONGITUDE": "25.6011774"
+  },
+  {
+    "IDNP": "53",
+    "NAMENP": "Малий Ходачків",
+    "SHORTNAME": "МАЛ ХОДАЧКІВ",
+    "LATITUDE": "49.486514",
+    "LONGITUDE": "25.8429792"
+  },
+  {
+    "IDNP": "54",
+    "NAMENP": "Марянівка",
+    "SHORTNAME": "Мар’янівка",
+    "LATITUDE": "49.4491917",
+    "LONGITUDE": "25.4442464"
+  },
+  {
+    "IDNP": "55",
+    "NAMENP": "Миролюбівка",
+    "SHORTNAME": "Миролюбівка",
+    "LATITUDE": "49.4267568",
+    "LONGITUDE": "25.5912032"
+  },
+  {
+    "IDNP": "56",
+    "NAMENP": "Мишковичі",
+    "SHORTNAME": "Мишковичі",
+    "LATITUDE": "49.4459604",
+    "LONGITUDE": "25.607634"
+  },
+  {
+    "IDNP": "57",
+    "NAMENP": "Настасів",
+    "SHORTNAME": "Настасів",
+    "LATITUDE": "49.4242351",
+    "LONGITUDE": "25.5098998"
+  },
+  {
+    "IDNP": "58",
+    "NAMENP": "Острів",
+    "SHORTNAME": "Острів",
+    "LATITUDE": "49.4873724",
+    "LONGITUDE": "25.5819524"
+  },
+  {
+    "IDNP": "59",
+    "NAMENP": "Плотича",
+    "SHORTNAME": "Плотича",
+    "LATITUDE": "49.6239591",
+    "LONGITUDE": "25.5626161"
+  },
+  {
+    "IDNP": "60",
+    "NAMENP": "Почапинці",
+    "SHORTNAME": "Почапинці",
+    "LATITUDE": "49.5128783",
+    "LONGITUDE": "25.4969072"
+  },
+  {
+    "IDNP": "61",
+    "NAMENP": "Прошова",
+    "SHORTNAME": "Прошова",
+    "LATITUDE": "49.4214022",
+    "LONGITUDE": "25.682536"
+  },
+  {
+    "IDNP": "62",
+    "NAMENP": "Романівка",
+    "SHORTNAME": "Романівка",
+    "LATITUDE": "49.5354957",
+    "LONGITUDE": "25.8203852"
+  },
+  {
+    "IDNP": "63",
+    "NAMENP": "Серединки",
+    "SHORTNAME": "Серединки",
+    "LATITUDE": "49.4782009",
+    "LONGITUDE": "25.4941166"
+  },
+  {
+    "IDNP": "64",
+    "NAMENP": "Скоморохи",
+    "SHORTNAME": "Скоморохи",
+    "LATITUDE": "49.4044387",
+    "LONGITUDE": "25.7253006"
+  },
+  {
+    "IDNP": "65",
+    "NAMENP": "Смолянка",
+    "SHORTNAME": "Смолянка",
+    "LATITUDE": "49.4234435",
+    "LONGITUDE": "25.7196669"
+  },
+  {
+    "IDNP": "66",
+    "NAMENP": "Стегниківці",
+    "SHORTNAME": "Стегниківці",
+    "LATITUDE": "49.6564269",
+    "LONGITUDE": "25.6559009"
+  },
+  {
+    "IDNP": "67",
+    "NAMENP": "Ступки",
+    "SHORTNAME": "Ступки",
+    "LATITUDE": "49.5374273",
+    "LONGITUDE": "25.7494692"
+  },
+  {
+    "IDNP": "68",
+    "NAMENP": "Товстолуг",
+    "SHORTNAME": "Товстолуг",
+    "LATITUDE": "49.4821939",
+    "LONGITUDE": "25.7241874"
+  },
+  {
+    "IDNP": "69",
+    "NAMENP": "Хатки",
+    "SHORTNAME": "Хатки",
+    "LATITUDE": "49.4575664",
+    "LONGITUDE": "25.5355437"
+  },
+  {
+    "IDNP": "70",
+    "NAMENP": "Чернелів-Руський",
+    "SHORTNAME": "ЧЕРН РУСЬКИЙ",
+    "LATITUDE": "49.5493289",
+    "LONGITUDE": "25.7566872"
+  },
+  {
+    "IDNP": "76",
+    "NAMENP": "Кемпінг",
+    "SHORTNAME": "Кемпінг",
+    "LATITUDE": "49.502579",
+    "LONGITUDE": "25.610777"
+  },
+  {
+    "IDNP": "77",
+    "NAMENP": "МИКУЛИНЦІ",
+    "SHORTNAME": "МИКУЛИНЦІ",
+    "LATITUDE": ".",
+    "LONGITUDE": "."
+  },
+  {
+    "IDNP": "78",
+    "NAMENP": "ВЕЛИКИЙ ХОДАЧКІВ",
+    "SHORTNAME": "В. ХОДАЧКІВ",
+    "LATITUDE": "",
+    "LONGITUDE": ""
+  },
+  {
+    "IDNP": "73",
+    "NAMENP": "Чернихівці",
+    "SHORTNAME": "Чернихівці",
+    "LATITUDE": "49.6288324",
+    "LONGITUDE": "25.7261783"
+  },
+  {
+    "IDNP": "74",
+    "NAMENP": "Збараж",
+    "SHORTNAME": "Збараж",
+    "LATITUDE": "49.6669762",
+    "LONGITUDE": "25.7723085"
+  },
+  {
+    "IDNP": "75",
+    "NAMENP": "Озерна",
+    "SHORTNAME": "Озерна",
+    "LATITUDE": "49.6338864",
+    "LONGITUDE": "25.3347745"
+  }
+]

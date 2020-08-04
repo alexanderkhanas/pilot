@@ -1,0 +1,4293 @@
+[
+    {
+        "IDNP": 20,
+        "IDST": "1 336",
+        "LATITUDE": 49.553377,
+        "LONGITUDE": 25.659033,
+        "NAMEST": "БАНДЕРИ"
+    },
+    {
+        "IDNP": 20,
+        "IDST": "1 338",
+        "LATITUDE": 49.5537813,
+        "LONGITUDE": 25.6610699,
+        "NAMEST": "КОЗАЦЬКА"
+    },
+    {
+        "IDNP": 20,
+        "IDST": "1 340",
+        "LATITUDE": 49.5610478,
+        "LONGITUDE": 25.6771783,
+        "NAMEST": "ГРУШЕВСЬКОГО"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 502,
+        "LATITUDE": 49.5501013,
+        "LONGITUDE": 25.5911304,
+        "NAMEST": "Багата"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 503,
+        "LATITUDE": 49.5552208,
+        "LONGITUDE": 25.6164902,
+        "NAMEST": "Балея"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 504,
+        "LATITUDE": 49.550731,
+        "LONGITUDE": 25.61935,
+        "NAMEST": "Бандери"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 505,
+        "LATITUDE": 49.5549385,
+        "LONGITUDE": 25.6156015,
+        "NAMEST": "Безкоровайного"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 506,
+        "LATITUDE": 49.5481398,
+        "LONGITUDE": 25.5492038,
+        "NAMEST": "Бережанська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 507,
+        "LATITUDE": 49.5646336,
+        "LONGITUDE": 25.5870111,
+        "NAMEST": "Березова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 508,
+        "LATITUDE": 49.5564974,
+        "LONGITUDE": 25.5911681,
+        "NAMEST": "Білецька"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 509,
+        "LATITUDE": 49.5392241,
+        "LONGITUDE": 25.5930868,
+        "NAMEST": "Білогірська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 510,
+        "LATITUDE": 49.5478471,
+        "LONGITUDE": 25.616734,
+        "NAMEST": "Богуна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 511,
+        "LATITUDE": 49.5569404,
+        "LONGITUDE": 25.6204216,
+        "NAMEST": "Бойківська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 512,
+        "LATITUDE": 49.557812,
+        "LONGITUDE": 25.6073121,
+        "NAMEST": "Бордуляка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 513,
+        "LATITUDE": 49.559187,
+        "LONGITUDE": 25.6406647,
+        "NAMEST": "Братів Бойчуків"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 514,
+        "LATITUDE": 49.5486229,
+        "LONGITUDE": 25.5700819,
+        "NAMEST": "Братів Гжицьких"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 515,
+        "LATITUDE": 49.5595416,
+        "LONGITUDE": 25.5894815,
+        "NAMEST": "Броварна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 516,
+        "LATITUDE": 49.5600202,
+        "LONGITUDE": 25.5886594,
+        "NAMEST": "Броварний провулок"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 517,
+        "LATITUDE": 49.5709019,
+        "LONGITUDE": 25.5901953,
+        "NAMEST": "Бродівська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 518,
+        "LATITUDE": 49.5523173,
+        "LONGITUDE": 25.5920226,
+        "NAMEST": "Брюкнера"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 519,
+        "LATITUDE": 49.5526505,
+        "LONGITUDE": 25.6162732,
+        "NAMEST": "Будзиновського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 520,
+        "LATITUDE": 49.5348755,
+        "LONGITUDE": 25.5969575,
+        "NAMEST": "Будного"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 752,
+        "LATITUDE": 49.5594737,
+        "LONGITUDE": 25.569409,
+        "NAMEST": "Яблунева"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 522,
+        "LATITUDE": 49.5519924,
+        "LONGITUDE": 25.5927262,
+        "NAMEST": "Валова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 523,
+        "LATITUDE": 49.5532026,
+        "LONGITUDE": 25.6264921,
+        "NAMEST": "Вербицького"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 524,
+        "LATITUDE": 49.5587832,
+        "LONGITUDE": 25.6006466,
+        "NAMEST": "Вертепна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 525,
+        "LATITUDE": 49.5572396,
+        "LONGITUDE": 25.6042519,
+        "NAMEST": "Весела"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 526,
+        "LATITUDE": 49.5495966,
+        "LONGITUDE": 25.5686126,
+        "NAMEST": "Виговського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 527,
+        "LATITUDE": 49.5436564,
+        "LONGITUDE": 25.5721458,
+        "NAMEST": "Винниченка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 528,
+        "LATITUDE": 49.5723411,
+        "LONGITUDE": 25.640488,
+        "NAMEST": "Вишневецького"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 748,
+        "LATITUDE": 49.5582264,
+        "LONGITUDE": 25.5921886,
+        "NAMEST": "Головацького, Новий Світ"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 530,
+        "LATITUDE": 49.5576519,
+        "LONGITUDE": 25.6423629,
+        "NAMEST": "15 квітня"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 531,
+        "LATITUDE": 49.5656315,
+        "LONGITUDE": 25.5898749,
+        "NAMEST": "Вільхова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 532,
+        "LATITUDE": 49.551856,
+        "LONGITUDE": 25.61744,
+        "NAMEST": "Вітовського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 749,
+        "LATITUDE": 49.51077,
+        "LONGITUDE": 25.6129749,
+        "NAMEST": "Голубовича"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 534,
+        "LATITUDE": 49.5521734,
+        "LONGITUDE": 25.5587625,
+        "NAMEST": "Волинська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 535,
+        "LATITUDE": 49.5705732,
+        "LONGITUDE": 25.6374333,
+        "NAMEST": "Володимира Великого"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 536,
+        "LATITUDE": 49.5530126,
+        "LONGITUDE": 25.6022306,
+        "NAMEST": "Вояків дивізії Галичина"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 537,
+        "LATITUDE": 49.5418421,
+        "LONGITUDE": 25.609228,
+        "NAMEST": "Гайова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 538,
+        "LATITUDE": 49.5413812,
+        "LONGITUDE": 25.6074243,
+        "NAMEST": "Гайова Бічна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 539,
+        "LATITUDE": 49.5592656,
+        "LONGITUDE": 25.603269,
+        "NAMEST": "Галицька"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 540,
+        "LATITUDE": 49.5596189,
+        "LONGITUDE": 25.6038144,
+        "NAMEST": "Галицький провулок"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 541,
+        "LATITUDE": 49.5415695,
+        "LONGITUDE": 25.6251669,
+        "NAMEST": "Героїв Крут"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 542,
+        "LATITUDE": 49.5492466,
+        "LONGITUDE": 25.6156757,
+        "NAMEST": "Глибока"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 543,
+        "LATITUDE": 49.5503925,
+        "LONGITUDE": 25.6066561,
+        "NAMEST": "Глиняна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 544,
+        "LATITUDE": 49.557544,
+        "LONGITUDE": 25.6079842,
+        "NAMEST": "Глінки"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 545,
+        "LATITUDE": 49.5596119,
+        "LONGITUDE": 25.5913105,
+        "NAMEST": "Гнатюка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 546,
+        "LATITUDE": 49.5575177,
+        "LONGITUDE": 25.5919044,
+        "NAMEST": "Гніздовського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 547,
+        "LATITUDE": 49.5506304,
+        "LONGITUDE": 25.5994822,
+        "NAMEST": "Гоголя"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 548,
+        "LATITUDE": 49.5684858,
+        "LONGITUDE": 25.6319752,
+        "NAMEST": "Іллєнка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 549,
+        "LATITUDE": 49.5597902,
+        "LONGITUDE": 25.592988,
+        "NAMEST": "Горбачевського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 550,
+        "LATITUDE": 49.5577786,
+        "LONGITUDE": 25.6013423,
+        "NAMEST": "Городна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 551,
+        "LATITUDE": 49.5406657,
+        "LONGITUDE": 25.5999355,
+        "NAMEST": "Гребінки"
+    },
+    {
+        "IDNP": 20,
+        "IDST": "1 341",
+        "LATITUDE": 49.5573869,
+        "LONGITUDE": 25.6630704,
+        "NAMEST": "НАЛИВАЙКА"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 552,
+        "LATITUDE": 49.5773103,
+        "LONGITUDE": 25.5882943,
+        "NAMEST": "Гріга"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 553,
+        "LATITUDE": 49.5470195,
+        "LONGITUDE": 25.5629123,
+        "NAMEST": "Громницького"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 554,
+        "LATITUDE": 49.5540696,
+        "LONGITUDE": 25.5935564,
+        "NAMEST": "Грушевського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 555,
+        "LATITUDE": 49.5554845,
+        "LONGITUDE": 25.6206713,
+        "NAMEST": "Гуцульська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 556,
+        "LATITUDE": 49.5385822,
+        "LONGITUDE": 25.5501235,
+        "NAMEST": "Далека"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 557,
+        "LATITUDE": 49.5457315,
+        "LONGITUDE": 25.6268987,
+        "NAMEST": "Данила Галицького"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 558,
+        "LATITUDE": 49.5473848,
+        "LONGITUDE": 25.6055376,
+        "NAMEST": "Деповська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 559,
+        "LATITUDE": 49.5473818,
+        "LONGITUDE": 25.6071069,
+        "NAMEST": "Дівоча"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 560,
+        "LATITUDE": 49.547478,
+        "LONGITUDE": 25.6101944,
+        "NAMEST": "Дівочий провулок"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 561,
+        "LATITUDE": 49.5674653,
+        "LONGITUDE": 25.5875544,
+        "NAMEST": "Ділова"
+    },
+    {
+        "IDNP": 20,
+        "IDST": "1 344",
+        "LATITUDE": 49.5507469,
+        "LONGITUDE": 25.6628937,
+        "NAMEST": "СОНЯЧНА"
+    },
+    {
+        "IDNP": 20,
+        "IDST": "1 345",
+        "LATITUDE": 49.5554378,
+        "LONGITUDE": 25.6638585,
+        "NAMEST": "ХМЕЛЬНИЦЬКОГО"
+    },
+    {
+        "IDNP": 76,
+        "IDST": "1 729",
+        "LATITUDE": 49.5041015,
+        "LONGITUDE": 25.609621,
+        "NAMEST": "Микулинецька"
+    },
+    {
+        "IDNP": 76,
+        "IDST": "1 730",
+        "LATITUDE": 49.4973881,
+        "LONGITUDE": 25.6116494,
+        "NAMEST": "Микулинецький провулок"
+    },
+    {
+        "IDNP": 76,
+        "IDST": "1 731",
+        "LATITUDE": 49.4942746,
+        "LONGITUDE": 25.6229097,
+        "NAMEST": "Енергетична"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 562,
+        "LATITUDE": 49.550036,
+        "LONGITUDE": 25.6114142,
+        "NAMEST": "Дністрянського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 563,
+        "LATITUDE": 49.5464946,
+        "LONGITUDE": 25.6121249,
+        "NAMEST": "Довбуша"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 564,
+        "LATITUDE": 49.5395403,
+        "LONGITUDE": 25.6258158,
+        "NAMEST": "Довженка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 565,
+        "LATITUDE": 49.5498479,
+        "LONGITUDE": 25.593482,
+        "NAMEST": "Доли"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 566,
+        "LATITUDE": 49.5454884,
+        "LONGITUDE": 25.6123574,
+        "NAMEST": "Дорошенка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 567,
+        "LATITUDE": 49.5488259,
+        "LONGITUDE": 25.5681279,
+        "NAMEST": "Достоєвського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 568,
+        "LATITUDE": 49.5453019,
+        "LONGITUDE": 25.5788161,
+        "NAMEST": "Драгоманова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 569,
+        "LATITUDE": 49.5448401,
+        "LONGITUDE": 25.5749974,
+        "NAMEST": "Дружби"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 570,
+        "LATITUDE": 49.5628639,
+        "LONGITUDE": 25.5980643,
+        "NAMEST": "Дубовецька"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 571,
+        "LATITUDE": 49.5610739,
+        "LONGITUDE": 25.6085311,
+        "NAMEST": "Енергетична"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 572,
+        "LATITUDE": 49.5433014,
+        "LONGITUDE": 25.6027346,
+        "NAMEST": "Живова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 573,
+        "LATITUDE": 49.5604955,
+        "LONGITUDE": 25.5981947,
+        "NAMEST": "За Рудкою"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 574,
+        "LATITUDE": 49.5580828,
+        "LONGITUDE": 25.5929459,
+        "NAMEST": "За Рудкою провулок"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 575,
+        "LATITUDE": 49.5545521,
+        "LONGITUDE": 25.559578,
+        "NAMEST": "Загребельна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 576,
+        "LATITUDE": 49.5530477,
+        "LONGITUDE": 25.5888489,
+        "NAMEST": "Замкова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 577,
+        "LATITUDE": 49.5446732,
+        "LONGITUDE": 25.6043391,
+        "NAMEST": "Замонастирська"
+    },
+    {
+        "IDNP": 24,
+        "IDST": "1 732",
+        "LATITUDE": 49.5100722,
+        "LONGITUDE": 25.6078052,
+        "NAMEST": "Микулинецька"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 578,
+        "LATITUDE": 49.5457713,
+        "LONGITUDE": 25.6033715,
+        "NAMEST": "Замонастирський провулок"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 579,
+        "LATITUDE": 49.5594936,
+        "LONGITUDE": 25.6001814,
+        "NAMEST": "Збаразька"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 580,
+        "LATITUDE": 49.5613754,
+        "LONGITUDE": 25.6033143,
+        "NAMEST": "Збаразький провулок"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 581,
+        "LATITUDE": 49.555089,
+        "LONGITUDE": 25.6030568,
+        "NAMEST": "Зелена"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 582,
+        "LATITUDE": 49.5629285,
+        "LONGITUDE": 25.6107994,
+        "NAMEST": "Злуки"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 583,
+        "LATITUDE": 49.5621648,
+        "LONGITUDE": 25.552571,
+        "NAMEST": "Золотогірська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 584,
+        "LATITUDE": 49.5555536,
+        "LONGITUDE": 25.5941519,
+        "NAMEST": "Камінна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 585,
+        "LATITUDE": 49.5543525,
+        "LONGITUDE": 25.6222783,
+        "NAMEST": "Канадська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 586,
+        "LATITUDE": 49.5630161,
+        "LONGITUDE": 25.588492,
+        "NAMEST": "Кармелюка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 587,
+        "LATITUDE": 49.5409081,
+        "LONGITUDE": 25.5757389,
+        "NAMEST": "Карпенка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 588,
+        "LATITUDE": 49.5564689,
+        "LONGITUDE": 25.5970776,
+        "NAMEST": "Качали"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 589,
+        "LATITUDE": 49.5589054,
+        "LONGITUDE": 25.6062611,
+        "NAMEST": "Квітова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 590,
+        "LATITUDE": 49.562943,
+        "LONGITUDE": 25.639973,
+        "NAMEST": "Київська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 591,
+        "LATITUDE": 49.5407402,
+        "LONGITUDE": 25.6286075,
+        "NAMEST": "Клима Савури"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 592,
+        "LATITUDE": 49.5550329,
+        "LONGITUDE": 25.6103266,
+        "NAMEST": "Клінічна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 593,
+        "LATITUDE": 49.5450864,
+        "LONGITUDE": 25.5979379,
+        "NAMEST": "Коллонтая"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 594,
+        "LATITUDE": 49.5545094,
+        "LONGITUDE": 25.6240409,
+        "NAMEST": "Коновальця"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 595,
+        "LATITUDE": 49.5535332,
+        "LONGITUDE": 25.5975444,
+        "NAMEST": "Коперника"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 596,
+        "LATITUDE": 49.5514056,
+        "LONGITUDE": 25.6467053,
+        "NAMEST": "Корольова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 597,
+        "LATITUDE": 49.560903,
+        "LONGITUDE": 25.5933278,
+        "NAMEST": "Котляревського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 598,
+        "LATITUDE": 49.5531499,
+        "LONGITUDE": 25.610147,
+        "NAMEST": "Коцюбинського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 599,
+        "LATITUDE": 49.5472888,
+        "LONGITUDE": 25.5662382,
+        "NAMEST": "Кривоноса"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 600,
+        "LATITUDE": 49.5587496,
+        "LONGITUDE": 25.5977597,
+        "NAMEST": "Крушельницької"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 668,
+        "LATITUDE": 49.5365865,
+        "LONGITUDE": 25.6117916,
+        "NAMEST": "Подільська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 669,
+        "LATITUDE": 49.5771853,
+        "LONGITUDE": 25.6100421,
+        "NAMEST": "Поліська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 670,
+        "LATITUDE": 49.5483668,
+        "LONGITUDE": 25.6090768,
+        "NAMEST": "Польова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 671,
+        "LATITUDE": 49.5542455,
+        "LONGITUDE": 25.6211143,
+        "NAMEST": "Польового"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 672,
+        "LATITUDE": 49.5746389,
+        "LONGITUDE": 25.6041512,
+        "NAMEST": "Промислова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 673,
+        "LATITUDE": 49.5434717,
+        "LONGITUDE": 25.5610089,
+        "NAMEST": "Просвіти"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 674,
+        "LATITUDE": 49.5346623,
+        "LONGITUDE": 25.6282141,
+        "NAMEST": "Протасевича"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 675,
+        "LATITUDE": 49.5504284,
+        "LONGITUDE": 25.617042,
+        "NAMEST": "Пулюя"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 676,
+        "LATITUDE": 49.5616553,
+        "LONGITUDE": 25.6311609,
+        "NAMEST": "Пушкіна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 677,
+        "LATITUDE": 49.5526981,
+        "LONGITUDE": 25.6214134,
+        "NAMEST": "Рєпіна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 678,
+        "LATITUDE": 49.560687,
+        "LONGITUDE": 25.5905315,
+        "NAMEST": "Рівна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 679,
+        "LATITUDE": 49.5577627,
+        "LONGITUDE": 25.5965077,
+        "NAMEST": "Родини Барвінських"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 680,
+        "LATITUDE": 49.5563447,
+        "LONGITUDE": 25.614584,
+        "NAMEST": "Рудницького"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 747,
+        "LATITUDE": 49.5610209,
+        "LONGITUDE": 25.5923161,
+        "NAMEST": "Вагилевича"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 682,
+        "LATITUDE": 49.5509264,
+        "LONGITUDE": 25.5938285,
+        "NAMEST": "Руська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 683,
+        "LATITUDE": 49.5528041,
+        "LONGITUDE": 25.5919713,
+        "NAMEST": "Сагайдачного"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 684,
+        "LATITUDE": 49.5407435,
+        "LONGITUDE": 25.6017365,
+        "NAMEST": "Садова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 685,
+        "LATITUDE": 49.5078857,
+        "LONGITUDE": 25.6099466,
+        "NAMEST": "Садовий провулок"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 686,
+        "LATITUDE": 49.5556163,
+        "LONGITUDE": 25.6173077,
+        "NAMEST": "Самчука"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 687,
+        "LATITUDE": 49.5563425,
+        "LONGITUDE": 25.61795,
+        "NAMEST": "Самчука Бічна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 688,
+        "LATITUDE": 49.5503487,
+        "LONGITUDE": 25.6431085,
+        "NAMEST": "Сахарова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 689,
+        "LATITUDE": 49.5683933,
+        "LONGITUDE": 25.6441865,
+        "NAMEST": "Симоненка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 690,
+        "LATITUDE": 49.5519885,
+        "LONGITUDE": 25.6180197,
+        "NAMEST": "Сімовича"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 691,
+        "LATITUDE": 49.5535396,
+        "LONGITUDE": 25.6177713,
+        "NAMEST": "Сірка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 692,
+        "LATITUDE": 49.5513298,
+        "LONGITUDE": 25.5914867,
+        "NAMEST": "Січинського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 693,
+        "LATITUDE": 49.5489468,
+        "LONGITUDE": 25.5964771,
+        "NAMEST": "Січових Стрільців"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 694,
+        "LATITUDE": 49.5479506,
+        "LONGITUDE": 25.6200118,
+        "NAMEST": "Слівенська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 695,
+        "LATITUDE": 49.5515941,
+        "LONGITUDE": 25.5910581,
+        "NAMEST": "Сліпого"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 696,
+        "LATITUDE": 49.5546429,
+        "LONGITUDE": 25.5943244,
+        "NAMEST": "Словацького"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 697,
+        "LATITUDE": 49.5700713,
+        "LONGITUDE": 25.629543,
+        "NAMEST": "Смакули"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 698,
+        "LATITUDE": 49.5473092,
+        "LONGITUDE": 25.6124052,
+        "NAMEST": "Сонячна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 699,
+        "LATITUDE": 49.5522667,
+        "LONGITUDE": 25.5662777,
+        "NAMEST": "Спадиста"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 700,
+        "LATITUDE": 49.5631279,
+        "LONGITUDE": 25.6239345,
+        "NAMEST": "Спортивна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 701,
+        "LATITUDE": 49.5419701,
+        "LONGITUDE": 25.5999356,
+        "NAMEST": "Стадникової"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 702,
+        "LATITUDE": 49.5518272,
+        "LONGITUDE": 25.5870062,
+        "NAMEST": "Старий Ринок"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 703,
+        "LATITUDE": 49.5497422,
+        "LONGITUDE": 25.5597242,
+        "NAMEST": "Степова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 704,
+        "LATITUDE": 49.5492232,
+        "LONGITUDE": 25.6169483,
+        "NAMEST": "Стефаника"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 705,
+        "LATITUDE": 49.547434,
+        "LONGITUDE": 25.6024394,
+        "NAMEST": "Стецька"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 706,
+        "LATITUDE": 49.5462206,
+        "LONGITUDE": 25.6018329,
+        "NAMEST": "Стрімка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 707,
+        "LATITUDE": 49.5586932,
+        "LONGITUDE": 25.6471926,
+        "NAMEST": "Стуса"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 708,
+        "LATITUDE": 49.550059,
+        "LONGITUDE": 25.5833763,
+        "NAMEST": "Танцорова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 709,
+        "LATITUDE": 49.5606304,
+        "LONGITUDE": 25.6219293,
+        "NAMEST": "Тарнавського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 710,
+        "LATITUDE": 49.5484691,
+        "LONGITUDE": 25.6053338,
+        "NAMEST": "Татарська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 711,
+        "LATITUDE": 49.5471204,
+        "LONGITUDE": 25.5706699,
+        "NAMEST": "Тбіліська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 712,
+        "LATITUDE": 49.5724338,
+        "LONGITUDE": 25.6173603,
+        "NAMEST": "Текстильна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 713,
+        "LATITUDE": 49.5408149,
+        "LONGITUDE": 25.5942547,
+        "NAMEST": "Тиха"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 714,
+        "LATITUDE": 49.5505335,
+        "LONGITUDE": 25.5701357,
+        "NAMEST": "Тісна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 715,
+        "LATITUDE": 49.5501969,
+        "LONGITUDE": 25.6182518,
+        "NAMEST": "Толстого"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 716,
+        "LATITUDE": 49.5675104,
+        "LONGITUDE": 25.5913913,
+        "NAMEST": "Транспортна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 717,
+        "LATITUDE": 49.5460621,
+        "LONGITUDE": 25.552845,
+        "NAMEST": "Тролейбусна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 718,
+        "LATITUDE": 49.5523998,
+        "LONGITUDE": 25.6046313,
+        "NAMEST": "Тютюнника"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 719,
+        "LATITUDE": 49.5639521,
+        "LONGITUDE": 25.6076779,
+        "NAMEST": "Фабрична"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 720,
+        "LATITUDE": 49.5501904,
+        "LONGITUDE": 25.6007242,
+        "NAMEST": "Федьковича"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 721,
+        "LATITUDE": 49.5551553,
+        "LONGITUDE": 25.597329,
+        "NAMEST": "Франка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 722,
+        "LATITUDE": 49.5524996,
+        "LONGITUDE": 25.5994965,
+        "NAMEST": "Хмельницького"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 723,
+        "LATITUDE": 49.539686,
+        "LONGITUDE": 25.5867797,
+        "NAMEST": "Цегельний провулок"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 724,
+        "LATITUDE": 49.5681215,
+        "LONGITUDE": 25.587088,
+        "NAMEST": "Циганська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 725,
+        "LATITUDE": 49.547797,
+        "LONGITUDE": 25.6178507,
+        "NAMEST": "Чайковського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 726,
+        "LATITUDE": 49.5603182,
+        "LONGITUDE": 25.6286996,
+        "NAMEST": "Чалдаєва"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 727,
+        "LATITUDE": 49.5570068,
+        "LONGITUDE": 25.6144591,
+        "NAMEST": "Чарнецького"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 728,
+        "LATITUDE": 49.5391217,
+        "LONGITUDE": 25.5987475,
+        "NAMEST": "Чернівецька"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 730,
+        "LATITUDE": 49.5606383,
+        "LONGITUDE": 25.5952348,
+        "NAMEST": "Чехова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 731,
+        "LATITUDE": 49.553634,
+        "LONGITUDE": 25.5986769,
+        "NAMEST": "Чорновола"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 732,
+        "LATITUDE": 49.5557267,
+        "LONGITUDE": 25.6265295,
+        "NAMEST": "Чубинського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 733,
+        "LATITUDE": 49.5519017,
+        "LONGITUDE": 25.5706196,
+        "NAMEST": "Чумацька"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 734,
+        "LATITUDE": 49.5463413,
+        "LONGITUDE": 25.6108516,
+        "NAMEST": "Шагайди"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 736,
+        "LATITUDE": 49.5552216,
+        "LONGITUDE": 25.5951807,
+        "NAMEST": "Шевченка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 737,
+        "LATITUDE": 49.5397292,
+        "LONGITUDE": 25.5872083,
+        "NAMEST": "Шептицького"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 738,
+        "LATITUDE": 49.5525301,
+        "LONGITUDE": 25.6032781,
+        "NAMEST": "Шопена"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 739,
+        "LATITUDE": 49.5622713,
+        "LONGITUDE": 25.6066627,
+        "NAMEST": "Шота Руставелі"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 740,
+        "LATITUDE": 49.5477604,
+        "LONGITUDE": 25.6003243,
+        "NAMEST": "Шпитальна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 741,
+        "LATITUDE": 49.5526851,
+        "LONGITUDE": 25.6065828,
+        "NAMEST": "Шухевича"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 742,
+        "LATITUDE": 49.5429492,
+        "LONGITUDE": 25.576641,
+        "NAMEST": "Юності"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 743,
+        "LATITUDE": 49.5406381,
+        "LONGITUDE": 25.5949133,
+        "NAMEST": "Юрчака"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 744,
+        "LATITUDE": 49.5726444,
+        "LONGITUDE": 25.6315634,
+        "NAMEST": "Яреми"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 745,
+        "LATITUDE": 49.5480469,
+        "LONGITUDE": 25.571887,
+        "NAMEST": "Яремчука"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 746,
+        "LATITUDE": 49.5596119,
+        "LONGITUDE": 25.5913105,
+        "NAMEST": "Ясна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 750,
+        "LATITUDE": 49.5520676,
+        "LONGITUDE": 25.5578594,
+        "NAMEST": "Грабовського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 751,
+        "LATITUDE": 49.5605763,
+        "LONGITUDE": 25.609076,
+        "NAMEST": "Енергетична-бічна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 753,
+        "LATITUDE": 49.5069362,
+        "LONGITUDE": 25.6091207,
+        "NAMEST": "Козацька"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 754,
+        "LATITUDE": 49.5488667,
+        "LONGITUDE": 25.5892446,
+        "NAMEST": "Шашкевича"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 601,
+        "LATITUDE": 49.5646486,
+        "LONGITUDE": 25.64467,
+        "NAMEST": "Куліша"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 602,
+        "LATITUDE": 49.5523665,
+        "LONGITUDE": 25.5975077,
+        "NAMEST": "Кульчицької"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 603,
+        "LATITUDE": 49.5540965,
+        "LONGITUDE": 25.6439406,
+        "NAMEST": "Купчинського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 604,
+        "LATITUDE": 49.5726537,
+        "LONGITUDE": 25.64001,
+        "NAMEST": "Курбаса"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 605,
+        "LATITUDE": 49.5526517,
+        "LONGITUDE": 25.5654319,
+        "NAMEST": "Куток"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 606,
+        "LATITUDE": 49.557377,
+        "LONGITUDE": 25.618469,
+        "NAMEST": "Лемківська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 607,
+        "LATITUDE": 49.5597216,
+        "LONGITUDE": 25.6345534,
+        "NAMEST": "Лепкого"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 608,
+        "LATITUDE": 49.544746,
+        "LONGITUDE": 25.621379,
+        "NAMEST": "Л. Українки"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 609,
+        "LATITUDE": 49.5470406,
+        "LONGITUDE": 25.5962899,
+        "NAMEST": "Липова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 610,
+        "LATITUDE": 49.5578732,
+        "LONGITUDE": 25.6018952,
+        "NAMEST": "Лисенка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 611,
+        "LATITUDE": 49.5539717,
+        "LONGITUDE": 25.5911319,
+        "NAMEST": "Листопадова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 612,
+        "LATITUDE": 49.5699747,
+        "LONGITUDE": 25.6079822,
+        "NAMEST": "Лозовецька"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 613,
+        "LATITUDE": 49.5570068,
+        "LONGITUDE": 25.6144591,
+        "NAMEST": "Ломоносова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 614,
+        "LATITUDE": 49.574601,
+        "LONGITUDE": 25.5892812,
+        "NAMEST": "Лук’яновича"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 615,
+        "LATITUDE": 49.5461158,
+        "LONGITUDE": 25.5590955,
+        "NAMEST": "Лучаківського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 616,
+        "LATITUDE": 49.5561438,
+        "LONGITUDE": 25.5596856,
+        "NAMEST": "Львівська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 617,
+        "LATITUDE": 49.5529538,
+        "LONGITUDE": 25.5890966,
+        "NAMEST": "Майдан волі"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 618,
+        "LATITUDE": 49.5510919,
+        "LONGITUDE": 25.5694614,
+        "NAMEST": "Мазепи"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 619,
+        "LATITUDE": 49.5488722,
+        "LONGITUDE": 25.5609287,
+        "NAMEST": "Макаренка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 620,
+        "LATITUDE": 49.5476546,
+        "LONGITUDE": 25.6141444,
+        "NAMEST": "Малишка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 621,
+        "LATITUDE": 49.5576969,
+        "LONGITUDE": 25.6097126,
+        "NAMEST": "Марка Вовчка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 622,
+        "LATITUDE": 49.5482591,
+        "LONGITUDE": 25.5920014,
+        "NAMEST": "Медова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 623,
+        "LATITUDE": 49.568043,
+        "LONGITUDE": 25.5860893,
+        "NAMEST": "Межова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 624,
+        "LATITUDE": 49.5405153,
+        "LONGITUDE": 25.6038004,
+        "NAMEST": "Микулинецька"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 532",
+        "LATITUDE": 49.6036739,
+        "LONGITUDE": 25.5698473,
+        "NAMEST": "Гайова"
+    },
+    {
+        "IDNP": 11,
+        "IDST": "1 480",
+        "LATITUDE": 49.5284258,
+        "LONGITUDE": 25.7566977,
+        "NAMEST": "Польова"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 414",
+        "LATITUDE": 49.524351,
+        "LONGITUDE": 25.651545,
+        "NAMEST": "М. Чурай"
+    },
+    {
+        "IDNP": 24,
+        "IDST": "1 396",
+        "LATITUDE": 49.511099,
+        "LONGITUDE": 25.6095968,
+        "NAMEST": "Гагаріна"
+    },
+    {
+        "IDNP": 24,
+        "IDST": "1 397",
+        "LATITUDE": 49.5114159,
+        "LONGITUDE": 25.6125745,
+        "NAMEST": "Голубовича"
+    },
+    {
+        "IDNP": 24,
+        "IDST": "1 398",
+        "LATITUDE": 49.5088313,
+        "LONGITUDE": 25.6097705,
+        "NAMEST": "Садовий провулок"
+    },
+    {
+        "IDNP": 24,
+        "IDST": "1 399",
+        "LATITUDE": 49.509071,
+        "LONGITUDE": 25.6121669,
+        "NAMEST": "Студинського"
+    },
+    {
+        "IDNP": 24,
+        "IDST": "1 400",
+        "LATITUDE": 49.5106871,
+        "LONGITUDE": 25.6111779,
+        "NAMEST": "Шкільна"
+    },
+    {
+        "IDNP": 24,
+        "IDST": "1 401",
+        "LATITUDE": 49.5080885,
+        "LONGITUDE": 25.6124573,
+        "NAMEST": "Шкільний провулок"
+    },
+    {
+        "IDNP": 24,
+        "IDST": "1 402",
+        "LATITUDE": 49.5098634,
+        "LONGITUDE": 25.6093423,
+        "NAMEST": "Ярмуша"
+    },
+    {
+        "IDNP": 27,
+        "IDST": "1 403",
+        "LATITUDE": 49.5232585,
+        "LONGITUDE": 25.6055018,
+        "NAMEST": "Микулинецька"
+    },
+    {
+        "IDNP": 27,
+        "IDST": "1 404",
+        "LATITUDE": 49.5233734,
+        "LONGITUDE": 25.6066332,
+        "NAMEST": "Молодіжна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 806,
+        "LATITUDE": 49.5415492,
+        "LONGITUDE": 25.5911434,
+        "NAMEST": "Приміський автовокзал"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 807,
+        "LATITUDE": 49.5437921,
+        "LONGITUDE": 25.593901,
+        "NAMEST": "Центральний ринок"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 808,
+        "LATITUDE": 49.5408601,
+        "LONGITUDE": 25.6644035,
+        "NAMEST": "Підволочиське шосе"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 809,
+        "LATITUDE": 49.5538072,
+        "LONGITUDE": 25.6002453,
+        "NAMEST": "Привокзальний майдан"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 813,
+        "LATITUDE": 49.5506426,
+        "LONGITUDE": 25.5951892,
+        "NAMEST": "Центр"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 814,
+        "LATITUDE": 49.5402959,
+        "LONGITUDE": 25.5524999,
+        "NAMEST": "Західна"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 355,
+        "LATITUDE": 49.5434876,
+        "LONGITUDE": 25.532273,
+        "NAMEST": "Стрийська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 625,
+        "LATITUDE": 49.5201032,
+        "LONGITUDE": 25.6029778,
+        "NAMEST": "Микулинецька Бічна"
+    },
+    {
+        "IDNP": 7,
+        "IDST": 377,
+        "LATITUDE": 49.5295691,
+        "LONGITUDE": 25.7041432,
+        "NAMEST": "Миру"
+    },
+    {
+        "IDNP": 7,
+        "IDST": 379,
+        "LATITUDE": 49.5325204,
+        "LONGITUDE": 25.7119298,
+        "NAMEST": "Сагайдачного"
+    },
+    {
+        "IDNP": 13,
+        "IDST": 453,
+        "LATITUDE": 49.553377,
+        "LONGITUDE": 25.659033,
+        "NAMEST": "Бандери"
+    },
+    {
+        "IDNP": 13,
+        "IDST": 455,
+        "LATITUDE": 49.5584922,
+        "LONGITUDE": 25.6613294,
+        "NAMEST": "Галицька"
+    },
+    {
+        "IDNP": 13,
+        "IDST": 456,
+        "LATITUDE": 49.5610478,
+        "LONGITUDE": 25.6771783,
+        "NAMEST": "Грушевського"
+    },
+    {
+        "IDNP": 13,
+        "IDST": 458,
+        "LATITUDE": 49.5537813,
+        "LONGITUDE": 25.6610699,
+        "NAMEST": "Козацька"
+    },
+    {
+        "IDNP": 13,
+        "IDST": 462,
+        "LATITUDE": 49.5573869,
+        "LONGITUDE": 25.6630704,
+        "NAMEST": "Наливайка"
+    },
+    {
+        "IDNP": 13,
+        "IDST": 465,
+        "LATITUDE": 49.5590983,
+        "LONGITUDE": 25.6784284,
+        "NAMEST": "Русанівська"
+    },
+    {
+        "IDNP": 13,
+        "IDST": 466,
+        "LATITUDE": 49.5637018,
+        "LONGITUDE": 25.6867244,
+        "NAMEST": "Січових Стрільців"
+    },
+    {
+        "IDNP": 13,
+        "IDST": 467,
+        "LATITUDE": 49.5507469,
+        "LONGITUDE": 25.6628937,
+        "NAMEST": "Сонячна"
+    },
+    {
+        "IDNP": 13,
+        "IDST": 469,
+        "LATITUDE": 49.5607133,
+        "LONGITUDE": 25.6658542,
+        "NAMEST": "Тернопільська"
+    },
+    {
+        "IDNP": 13,
+        "IDST": 470,
+        "LATITUDE": 49.5554378,
+        "LONGITUDE": 25.6638585,
+        "NAMEST": "Хмельницького"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 472,
+        "LATITUDE": 49.530224,
+        "LONGITUDE": 25.631656,
+        "NAMEST": "Бобинського"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 473,
+        "LATITUDE": 49.51416,
+        "LONGITUDE": 25.66467,
+        "NAMEST": "Гагаріна"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 475,
+        "LATITUDE": 49.5208695,
+        "LONGITUDE": 25.6525244,
+        "NAMEST": "Галицька"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 478,
+        "LATITUDE": 49.5176335,
+        "LONGITUDE": 25.6669509,
+        "NAMEST": "Кашуби"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 479,
+        "LATITUDE": 49.5237835,
+        "LONGITUDE": 25.6549972,
+        "NAMEST": "Курбаса"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 480,
+        "LATITUDE": 49.5206998,
+        "LONGITUDE": 25.6433923,
+        "NAMEST": "Л. Українки"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 481,
+        "LATITUDE": 49.5210018,
+        "LONGITUDE": 25.6371987,
+        "NAMEST": "Лісова"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 482,
+        "LATITUDE": 49.5174458,
+        "LONGITUDE": 25.6464851,
+        "NAMEST": "Мазепи"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 483,
+        "LATITUDE": 49.5120819,
+        "LONGITUDE": 25.6740132,
+        "NAMEST": "Медова"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 490,
+        "LATITUDE": 49.5226433,
+        "LONGITUDE": 25.6332343,
+        "NAMEST": "Сеньківського"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 491,
+        "LATITUDE": 49.5189833,
+        "LONGITUDE": 25.6525096,
+        "NAMEST": "Сонячна"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 493,
+        "LATITUDE": 49.5207277,
+        "LONGITUDE": 25.6601164,
+        "NAMEST": "Стуса"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 494,
+        "LATITUDE": 49.5267478,
+        "LONGITUDE": 25.6266298,
+        "NAMEST": "Тернопільська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 626,
+        "LATITUDE": 49.5070615,
+        "LONGITUDE": 25.6053772,
+        "NAMEST": "Микулинецький провулок"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 496,
+        "LATITUDE": 49.5269633,
+        "LONGITUDE": 25.6439969,
+        "NAMEST": "Франка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 627,
+        "LATITUDE": 49.5455283,
+        "LONGITUDE": 25.5800914,
+        "NAMEST": "Миру"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 497,
+        "LATITUDE": 49.5219971,
+        "LONGITUDE": 25.6673362,
+        "NAMEST": "Шевченка"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 498,
+        "LATITUDE": 49.5267661,
+        "LONGITUDE": 25.6323388,
+        "NAMEST": "Ярмуша"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 628,
+        "LATITUDE": 49.5519778,
+        "LONGITUDE": 25.5686533,
+        "NAMEST": "Михалевича"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 629,
+        "LATITUDE": 49.5453767,
+        "LONGITUDE": 25.6182045,
+        "NAMEST": "Монастирського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 630,
+        "LATITUDE": 49.555706,
+        "LONGITUDE": 25.6022644,
+        "NAMEST": "Монюшко"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 631,
+        "LATITUDE": 49.57688,
+        "LONGITUDE": 25.6403514,
+        "NAMEST": "Морозенка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 633,
+        "LATITUDE": 49.5454702,
+        "LONGITUDE": 25.606204,
+        "NAMEST": "Мостова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 634,
+        "LATITUDE": 49.5439442,
+        "LONGITUDE": 25.6064691,
+        "NAMEST": "Мостова Бічна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 636,
+        "LATITUDE": 49.5503466,
+        "LONGITUDE": 25.5927748,
+        "NAMEST": "Мстислава"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 637,
+        "LATITUDE": 49.5607791,
+        "LONGITUDE": 25.5879066,
+        "NAMEST": "Набережна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 638,
+        "LATITUDE": 49.5510635,
+        "LONGITUDE": 25.5849006,
+        "NAMEST": "Над Ставом"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 639,
+        "LATITUDE": 49.5584993,
+        "LONGITUDE": 25.6173584,
+        "NAMEST": "Над Яром"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 640,
+        "LATITUDE": 49.5486432,
+        "LONGITUDE": 25.5549847,
+        "NAMEST": "Надзбручанська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 641,
+        "LATITUDE": 49.5637186,
+        "LONGITUDE": 25.5935413,
+        "NAMEST": "Наливайка"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 642,
+        "LATITUDE": 49.5617858,
+        "LONGITUDE": 25.5918211,
+        "NAMEST": "Нечая"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 643,
+        "LATITUDE": 49.5503524,
+        "LONGITUDE": 25.6146546,
+        "NAMEST": "Нова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 644,
+        "LATITUDE": 49.5650621,
+        "LONGITUDE": 25.5914658,
+        "NAMEST": "Новий Світ"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 645,
+        "LATITUDE": 49.5670425,
+        "LONGITUDE": 25.5885613,
+        "NAMEST": "Новий Світ Бічна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 646,
+        "LATITUDE": 49.547616,
+        "LONGITUDE": 25.6141018,
+        "NAMEST": "Новосонячна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 647,
+        "LATITUDE": 49.5300126,
+        "LONGITUDE": 25.6181663,
+        "NAMEST": "Об’їзна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 648,
+        "LATITUDE": 49.5421161,
+        "LONGITUDE": 25.5953534,
+        "NAMEST": "Оболоня"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 649,
+        "LATITUDE": 49.5696484,
+        "LONGITUDE": 25.6314327,
+        "NAMEST": "Овочева"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 650,
+        "LATITUDE": 49.5574445,
+        "LONGITUDE": 25.5942611,
+        "NAMEST": "Опільського"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 651,
+        "LATITUDE": 49.5446436,
+        "LONGITUDE": 25.5765165,
+        "NAMEST": "Орлика"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 652,
+        "LATITUDE": 49.5460272,
+        "LONGITUDE": 25.5998863,
+        "NAMEST": "Острозького"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 653,
+        "LATITUDE": 49.5489052,
+        "LONGITUDE": 25.5865511,
+        "NAMEST": "Паращука"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 654,
+        "LATITUDE": 49.5537643,
+        "LONGITUDE": 25.6024077,
+        "NAMEST": "Паркова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 655,
+        "LATITUDE": 49.5507974,
+        "LONGITUDE": 25.5663033,
+        "NAMEST": "Перемоги"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 656,
+        "LATITUDE": 49.5445959,
+        "LONGITUDE": 25.597657,
+        "NAMEST": "Перля"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 657,
+        "LATITUDE": 49.5564034,
+        "LONGITUDE": 25.6445296,
+        "NAMEST": "Петлюри"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 658,
+        "LATITUDE": 49.5488175,
+        "LONGITUDE": 25.5688116,
+        "NAMEST": "Петриківська"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 659,
+        "LATITUDE": 49.5546916,
+        "LONGITUDE": 25.6054731,
+        "NAMEST": "Петрушевича"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 660,
+        "LATITUDE": 49.5492157,
+        "LONGITUDE": 25.5970568,
+        "NAMEST": "Пирогова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 661,
+        "LATITUDE": 49.5513965,
+        "LONGITUDE": 25.557878,
+        "NAMEST": "Південна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 662,
+        "LATITUDE": 49.5579006,
+        "LONGITUDE": 25.6019545,
+        "NAMEST": "Північна"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 663,
+        "LATITUDE": 49.5577848,
+        "LONGITUDE": 25.614781,
+        "NAMEST": "Підгородня"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 664,
+        "LATITUDE": 49.5482172,
+        "LONGITUDE": 25.6066968,
+        "NAMEST": "Підкови"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 665,
+        "LATITUDE": 49.5488367,
+        "LONGITUDE": 25.6064812,
+        "NAMEST": "Підкови провулок"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 666,
+        "LATITUDE": 49.5441355,
+        "LONGITUDE": 25.6173046,
+        "NAMEST": "Піскова"
+    },
+    {
+        "IDNP": 1,
+        "IDST": 667,
+        "LATITUDE": 49.5492194,
+        "LONGITUDE": 25.5924094,
+        "NAMEST": "Площа Героїв Євромайдану"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 816,
+        "LATITUDE": 49.5393936,
+        "LONGITUDE": 25.5608456,
+        "NAMEST": "Академічна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 817,
+        "LATITUDE": 49.5150353,
+        "LONGITUDE": 25.5888062,
+        "NAMEST": "Березовицька"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 818,
+        "LATITUDE": 49.5173199,
+        "LONGITUDE": 25.5877167,
+        "NAMEST": "Вишневецького"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 819,
+        "LATITUDE": 49.5378827,
+        "LONGITUDE": 25.563879,
+        "NAMEST": "Воїнів УПА"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 513",
+        "LATITUDE": 49.6117948,
+        "LONGITUDE": 25.5684573,
+        "NAMEST": "Гагаріна"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 514",
+        "LATITUDE": 49.606202,
+        "LONGITUDE": 25.56007,
+        "NAMEST": "Галицька"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 516",
+        "LATITUDE": 49.6090246,
+        "LONGITUDE": 25.5623824,
+        "NAMEST": "Грабаса"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 517",
+        "LATITUDE": 49.6148705,
+        "LONGITUDE": 25.5679509,
+        "NAMEST": "Дружби"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 825,
+        "LATITUDE": 49.53871,
+        "LONGITUDE": 25.5631824,
+        "NAMEST": "Довбуша"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 826,
+        "LATITUDE": 49.5391114,
+        "LONGITUDE": 25.5579956,
+        "NAMEST": "Довженка"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 518",
+        "LATITUDE": 49.6074841,
+        "LONGITUDE": 25.5618645,
+        "NAMEST": "Франка"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 828,
+        "LATITUDE": 49.5374393,
+        "LONGITUDE": 25.5804961,
+        "NAMEST": "Дружби"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 829,
+        "LATITUDE": 49.5395151,
+        "LONGITUDE": 25.5631592,
+        "NAMEST": "Енергетична"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 830,
+        "LATITUDE": 49.5323939,
+        "LONGITUDE": 25.5717351,
+        "NAMEST": "Зелена Бічна"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 519",
+        "LATITUDE": 49.6069696,
+        "LONGITUDE": 25.5653466,
+        "NAMEST": "Козацька"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 832,
+        "LATITUDE": 49.5337569,
+        "LONGITUDE": 25.5597686,
+        "NAMEST": "Злуки"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 834,
+        "LATITUDE": 49.5375695,
+        "LONGITUDE": 25.5609967,
+        "NAMEST": "Коновальця"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 835,
+        "LATITUDE": 49.5161098,
+        "LONGITUDE": 25.5879086,
+        "NAMEST": "Крушельницької"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 836,
+        "LATITUDE": 49.5249414,
+        "LONGITUDE": 25.5810886,
+        "NAMEST": "Лісова"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 521",
+        "LATITUDE": 49.6096911,
+        "LONGITUDE": 25.5614497,
+        "NAMEST": "Набережна"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 522",
+        "LATITUDE": 49.6112385,
+        "LONGITUDE": 25.5719559,
+        "NAMEST": "Нова"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 523",
+        "LATITUDE": 49.6043581,
+        "LONGITUDE": 25.5653331,
+        "NAMEST": "Проектна"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 524",
+        "LATITUDE": 49.6042441,
+        "LONGITUDE": 25.5627982,
+        "NAMEST": "Садова"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 837,
+        "LATITUDE": 49.5137527,
+        "LONGITUDE": 25.5885816,
+        "NAMEST": "Лугова"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 838,
+        "LATITUDE": 49.5317568,
+        "LONGITUDE": 25.5825163,
+        "NAMEST": "Миру"
+    },
+    {
+        "IDNP": 11,
+        "IDST": "1 481",
+        "LATITUDE": 49.5267406,
+        "LONGITUDE": 25.7692266,
+        "NAMEST": "Сагайдачного"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 840,
+        "LATITUDE": 49.5372942,
+        "LONGITUDE": 25.582435,
+        "NAMEST": "Молодіжна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 842,
+        "LATITUDE": 49.5358231,
+        "LONGITUDE": 25.5726006,
+        "NAMEST": "Наливайка"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 843,
+        "LATITUDE": 49.5404223,
+        "LONGITUDE": 25.5624307,
+        "NAMEST": "Наукова"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 844,
+        "LATITUDE": 49.5400713,
+        "LONGITUDE": 25.5574249,
+        "NAMEST": "Національного Відродження"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 526",
+        "LATITUDE": 49.6089719,
+        "LONGITUDE": 25.5688653,
+        "NAMEST": "Транспортна бічна"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 527",
+        "LATITUDE": 49.6055512,
+        "LONGITUDE": 25.5608999,
+        "NAMEST": "Шевченка"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 847,
+        "LATITUDE": 49.5343023,
+        "LONGITUDE": 25.5627512,
+        "NAMEST": "Опільського"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 528",
+        "LATITUDE": 49.6104178,
+        "LONGITUDE": 25.5697662,
+        "NAMEST": "Ювілейна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 849,
+        "LATITUDE": 49.5221684,
+        "LONGITUDE": 25.5854655,
+        "NAMEST": "Подільська"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 850,
+        "LATITUDE": 49.5339979,
+        "LONGITUDE": 25.5736479,
+        "NAMEST": "Польна Бічна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 851,
+        "LATITUDE": 49.5333368,
+        "LONGITUDE": 25.5747569,
+        "NAMEST": "Польна"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 529",
+        "LATITUDE": 49.6049816,
+        "LONGITUDE": 25.5669825,
+        "NAMEST": "Злуки"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 853,
+        "LATITUDE": 49.5380363,
+        "LONGITUDE": 25.5611682,
+        "NAMEST": "Пулюя"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 530",
+        "LATITUDE": 49.6023386,
+        "LONGITUDE": 25.5697827,
+        "NAMEST": "Сонячна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 855,
+        "LATITUDE": 49.5127072,
+        "LONGITUDE": 25.5895937,
+        "NAMEST": "Світанкова"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 856,
+        "LATITUDE": 49.5194414,
+        "LONGITUDE": 25.5830319,
+        "NAMEST": "Січових Стрільців"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 857,
+        "LATITUDE": 49.5352698,
+        "LONGITUDE": 25.5706406,
+        "NAMEST": "Слов’янська Бічна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 858,
+        "LATITUDE": 49.5344118,
+        "LONGITUDE": 25.5675029,
+        "NAMEST": "Слов’янська"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 859,
+        "LATITUDE": 49.532327,
+        "LONGITUDE": 25.5740851,
+        "NAMEST": "Сонячна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 860,
+        "LATITUDE": 49.5375066,
+        "LONGITUDE": 25.5803763,
+        "NAMEST": "Бандери"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 861,
+        "LATITUDE": 49.5355743,
+        "LONGITUDE": 25.5725431,
+        "NAMEST": "Стефаника"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 862,
+        "LATITUDE": 49.5369387,
+        "LONGITUDE": 25.5718034,
+        "NAMEST": "Стуса"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 863,
+        "LATITUDE": 49.5401389,
+        "LONGITUDE": 25.5758183,
+        "NAMEST": "Тернопільська Бічна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 864,
+        "LATITUDE": 49.5365994,
+        "LONGITUDE": 25.5766497,
+        "NAMEST": "Тернопільська"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 531",
+        "LATITUDE": 49.602402,
+        "LONGITUDE": 25.5736,
+        "NAMEST": "Підлісна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 866,
+        "LATITUDE": 49.5350336,
+        "LONGITUDE": 25.5758161,
+        "NAMEST": "Українки Бічна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 867,
+        "LATITUDE": 49.5332253,
+        "LONGITUDE": 25.5671326,
+        "NAMEST": "Українки"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 868,
+        "LATITUDE": 49.5405373,
+        "LONGITUDE": 25.5614753,
+        "NAMEST": "Університетська"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 869,
+        "LATITUDE": 49.5353958,
+        "LONGITUDE": 25.5740739,
+        "NAMEST": "Франка"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 870,
+        "LATITUDE": 49.5378234,
+        "LONGITUDE": 25.5656667,
+        "NAMEST": "Хліборобна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 871,
+        "LATITUDE": 49.5357302,
+        "LONGITUDE": 25.561813,
+        "NAMEST": "Хмельницького"
+    },
+    {
+        "IDNP": 27,
+        "IDST": "1 678",
+        "LATITUDE": 49.5213773,
+        "LONGITUDE": 25.6093186,
+        "NAMEST": "Микулинецький прровулок"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 439",
+        "LATITUDE": 49.5874534,
+        "LONGITUDE": 25.5734442,
+        "NAMEST": "Січових Стрільців"
+    },
+    {
+        "IDNP": 27,
+        "IDST": "1 679",
+        "LATITUDE": 49.5201032,
+        "LONGITUDE": 25.6029778,
+        "NAMEST": "Микулинецька бічна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 872,
+        "LATITUDE": 49.5356048,
+        "LONGITUDE": 25.5567075,
+        "NAMEST": "Чорновола"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 873,
+        "LATITUDE": 49.5298263,
+        "LONGITUDE": 25.5790044,
+        "NAMEST": "Шевченка Бічна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 874,
+        "LATITUDE": 49.5303849,
+        "LONGITUDE": 25.5774422,
+        "NAMEST": "Шевченка"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 875,
+        "LATITUDE": 49.5169835,
+        "LONGITUDE": 25.585992,
+        "NAMEST": "Шептицького"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 876,
+        "LATITUDE": 49.5367504,
+        "LONGITUDE": 25.5687524,
+        "NAMEST": "Шкільна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": 877,
+        "LATITUDE": 49.5186785,
+        "LONGITUDE": 25.5863543,
+        "NAMEST": "Шушкевича"
+    },
+    {
+        "IDNP": 26,
+        "IDST": "1 533",
+        "LATITUDE": 49.6064827,
+        "LONGITUDE": 25.5742515,
+        "NAMEST": "Незалежності"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 879,
+        "LATITUDE": 49.5249944,
+        "LONGITUDE": 25.6512256,
+        "NAMEST": "Хмельницького"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 880,
+        "LATITUDE": 49.5269771,
+        "LONGITUDE": 25.6407553,
+        "NAMEST": "Дружби"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 881,
+        "LATITUDE": 49.5243073,
+        "LONGITUDE": 25.6390211,
+        "NAMEST": "Зелена"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 882,
+        "LATITUDE": 49.5131189,
+        "LONGITUDE": 25.6725153,
+        "NAMEST": "Миру"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 883,
+        "LATITUDE": 49.5229795,
+        "LONGITUDE": 25.6396654,
+        "NAMEST": "Паркова"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 884,
+        "LATITUDE": 49.519954,
+        "LONGITUDE": 25.6089044,
+        "NAMEST": "Підлісна"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 885,
+        "LATITUDE": 49.5365924,
+        "LONGITUDE": 25.6117843,
+        "NAMEST": "Подільська"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 886,
+        "LATITUDE": 49.5156284,
+        "LONGITUDE": 25.6487866,
+        "NAMEST": "Садова"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 887,
+        "LATITUDE": 49.5231622,
+        "LONGITUDE": 25.6527601,
+        "NAMEST": "Наливайка"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 888,
+        "LATITUDE": 49.5260832,
+        "LONGITUDE": 25.6353791,
+        "NAMEST": "Студинського"
+    },
+    {
+        "IDNP": 4,
+        "IDST": 889,
+        "LATITUDE": 49.522597,
+        "LONGITUDE": 25.6075203,
+        "NAMEST": "Фестивальна"
+    },
+    {
+        "IDNP": 6,
+        "IDST": 890,
+        "LATITUDE": 49.5802896,
+        "LONGITUDE": 25.5524991,
+        "NAMEST": "Вербова"
+    },
+    {
+        "IDNP": 6,
+        "IDST": 891,
+        "LATITUDE": 49.5867247,
+        "LONGITUDE": 25.5484019,
+        "NAMEST": "Глибочанська"
+    },
+    {
+        "IDNP": 6,
+        "IDST": 892,
+        "LATITUDE": 49.5823362,
+        "LONGITUDE": 25.5514338,
+        "NAMEST": "Зарічна"
+    },
+    {
+        "IDNP": 6,
+        "IDST": 893,
+        "LATITUDE": 49.5803093,
+        "LONGITUDE": 25.5478118,
+        "NAMEST": "Калинова"
+    },
+    {
+        "IDNP": 6,
+        "IDST": 894,
+        "LATITUDE": 49.5856099,
+        "LONGITUDE": 25.5498331,
+        "NAMEST": "Медобірна"
+    },
+    {
+        "IDNP": 6,
+        "IDST": 895,
+        "LATITUDE": 49.5829335,
+        "LONGITUDE": 25.5504747,
+        "NAMEST": "Мирна"
+    },
+    {
+        "IDNP": 6,
+        "IDST": 896,
+        "LATITUDE": 49.5810516,
+        "LONGITUDE": 25.5532943,
+        "NAMEST": "Низинна"
+    },
+    {
+        "IDNP": 6,
+        "IDST": 897,
+        "LATITUDE": 49.5810217,
+        "LONGITUDE": 25.5449109,
+        "NAMEST": "Проектна"
+    },
+    {
+        "IDNP": 6,
+        "IDST": 898,
+        "LATITUDE": 49.5850456,
+        "LONGITUDE": 25.5471843,
+        "NAMEST": "Хутірська"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 899,
+        "LATITUDE": 49.562383,
+        "LONGITUDE": 25.5670302,
+        "NAMEST": "Агрономічна"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 900,
+        "LATITUDE": 49.5640475,
+        "LONGITUDE": 25.5497984,
+        "NAMEST": "Бенцаля"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 901,
+        "LATITUDE": 49.5621677,
+        "LONGITUDE": 25.5595123,
+        "NAMEST": "Болюха"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 902,
+        "LATITUDE": 49.5597562,
+        "LONGITUDE": 25.5561372,
+        "NAMEST": "Бригадна"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 903,
+        "LATITUDE": 49.5628999,
+        "LONGITUDE": 25.5655585,
+        "NAMEST": "Вишнева"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 904,
+        "LATITUDE": 49.5614137,
+        "LONGITUDE": 25.5582202,
+        "NAMEST": "Глибока Долина"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 905,
+        "LATITUDE": 49.5621647,
+        "LONGITUDE": 25.552571,
+        "NAMEST": "Золотогірська"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 906,
+        "LATITUDE": 49.5641913,
+        "LONGITUDE": 25.5641357,
+        "NAMEST": "Лісова"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 907,
+        "LATITUDE": 49.5638785,
+        "LONGITUDE": 25.5676419,
+        "NAMEST": "Підгірна"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 908,
+        "LATITUDE": 49.559654,
+        "LONGITUDE": 25.5670122,
+        "NAMEST": "Приміська"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 909,
+        "LATITUDE": 49.5638854,
+        "LONGITUDE": 25.5626783,
+        "NAMEST": "Тернопільська"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 910,
+        "LATITUDE": 49.5617609,
+        "LONGITUDE": 25.568419,
+        "NAMEST": "Урожайна"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 911,
+        "LATITUDE": 49.561778,
+        "LONGITUDE": 25.562698,
+        "NAMEST": "Хліборобна"
+    },
+    {
+        "IDNP": 3,
+        "IDST": 912,
+        "LATITUDE": 49.5603959,
+        "LONGITUDE": 25.5679426,
+        "NAMEST": "Яблунева"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 341,
+        "LATITUDE": 49.5368137,
+        "LONGITUDE": 25.5170184,
+        "NAMEST": "Бічна"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 356,
+        "LATITUDE": 49.5420304,
+        "LONGITUDE": 25.5163438,
+        "NAMEST": "Стуса"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 342,
+        "LATITUDE": 49.5437143,
+        "LONGITUDE": 25.5141701,
+        "NAMEST": "Вербицького"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 344,
+        "LATITUDE": 49.5371239,
+        "LONGITUDE": 25.521325,
+        "NAMEST": "Глибока"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 345,
+        "LATITUDE": 49.5352293,
+        "LONGITUDE": 25.5234176,
+        "NAMEST": "Зелена"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 346,
+        "LATITUDE": 49.534845,
+        "LONGITUDE": 25.5286887,
+        "NAMEST": "Котляревського"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 348,
+        "LATITUDE": 49.5395225,
+        "LONGITUDE": 25.5109807,
+        "NAMEST": "Київська"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 349,
+        "LATITUDE": 49.5357433,
+        "LONGITUDE": 25.5211885,
+        "NAMEST": "Л. Українки"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 347,
+        "LATITUDE": 49.5450435,
+        "LONGITUDE": 25.5118089,
+        "NAMEST": "Курбаса"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 350,
+        "LATITUDE": 49.5345705,
+        "LONGITUDE": 25.5257417,
+        "NAMEST": "Миру"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 352,
+        "LATITUDE": 49.5350588,
+        "LONGITUDE": 25.5299303,
+        "NAMEST": "Озерна"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 358,
+        "LATITUDE": 49.5320979,
+        "LONGITUDE": 25.5281993,
+        "NAMEST": "Чубинського"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 927,
+        "LATITUDE": 49.5349811,
+        "LONGITUDE": 25.5094072,
+        "NAMEST": "Підгороднє"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 353,
+        "LATITUDE": 49.5406035,
+        "LONGITUDE": 25.5150018,
+        "NAMEST": "Подільська"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 354,
+        "LATITUDE": 49.5378955,
+        "LONGITUDE": 25.5153944,
+        "NAMEST": "Садова"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 351,
+        "LATITUDE": 49.532676,
+        "LONGITUDE": 25.5260816,
+        "NAMEST": "Наливайка"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 931,
+        "LATITUDE": 49.5361071,
+        "LONGITUDE": 25.5240808,
+        "NAMEST": "Шевченка"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 357,
+        "LATITUDE": 49.5385501,
+        "LONGITUDE": 25.512831,
+        "NAMEST": "Тернопільська"
+    },
+    {
+        "IDNP": 5,
+        "IDST": 933,
+        "LATITUDE": 49.5372777,
+        "LONGITUDE": 25.5230409,
+        "NAMEST": "Хліборобна"
+    },
+    {
+        "IDNP": 7,
+        "IDST": 935,
+        "LATITUDE": 49.5387385,
+        "LONGITUDE": 25.6864482,
+        "NAMEST": "Злагоди"
+    },
+    {
+        "IDNP": 7,
+        "IDST": 936,
+        "LATITUDE": 49.5381159,
+        "LONGITUDE": 25.6885106,
+        "NAMEST": "Незалежності"
+    },
+    {
+        "IDNP": 7,
+        "IDST": 937,
+        "LATITUDE": 49.5323513,
+        "LONGITUDE": 25.7039983,
+        "NAMEST": "Бандери"
+    },
+    {
+        "IDNP": 7,
+        "IDST": 938,
+        "LATITUDE": 49.5380852,
+        "LONGITUDE": 25.6908211,
+        "NAMEST": "Тернопільська"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 969,
+        "LATITUDE": 49.5733709,
+        "LONGITUDE": 25.6518495,
+        "NAMEST": "Гайова"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 970,
+        "LATITUDE": 49.5760627,
+        "LONGITUDE": 25.6443158,
+        "NAMEST": "Галицька"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 971,
+        "LATITUDE": 49.5746921,
+        "LONGITUDE": 25.6530816,
+        "NAMEST": "Глибока"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 972,
+        "LATITUDE": 49.5722345,
+        "LONGITUDE": 25.6514738,
+        "NAMEST": "Джерельна"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 973,
+        "LATITUDE": 49.5744804,
+        "LONGITUDE": 25.6481621,
+        "NAMEST": "Долинна"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 442",
+        "LATITUDE": 49.5910056,
+        "LONGITUDE": 25.5790617,
+        "NAMEST": "Провулок Київський"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 443",
+        "LATITUDE": 49.5888694,
+        "LONGITUDE": 25.5809339,
+        "NAMEST": "Садова"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 974,
+        "LATITUDE": 49.5756118,
+        "LONGITUDE": 25.6499653,
+        "NAMEST": "Зелена"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 975,
+        "LATITUDE": 49.573747,
+        "LONGITUDE": 25.6476949,
+        "NAMEST": "Крушельницької"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 976,
+        "LATITUDE": 49.5767634,
+        "LONGITUDE": 25.6456438,
+        "NAMEST": "Л. Українки"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 978,
+        "LATITUDE": 49.5775567,
+        "LONGITUDE": 25.6499547,
+        "NAMEST": "Липова"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 979,
+        "LATITUDE": 49.5732615,
+        "LONGITUDE": 25.6467893,
+        "NAMEST": "Молодіжна"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 980,
+        "LATITUDE": 49.5766034,
+        "LONGITUDE": 25.6553709,
+        "NAMEST": "Польова"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 981,
+        "LATITUDE": 49.5720924,
+        "LONGITUDE": 25.6484753,
+        "NAMEST": "Садова"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 982,
+        "LATITUDE": 49.5760975,
+        "LONGITUDE": 25.6462806,
+        "NAMEST": "Сонячна"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 983,
+        "LATITUDE": 49.5745098,
+        "LONGITUDE": 25.6448129,
+        "NAMEST": "Тернопільська"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 984,
+        "LATITUDE": 49.5772338,
+        "LONGITUDE": 25.6471389,
+        "NAMEST": "Франка"
+    },
+    {
+        "IDNP": 9,
+        "IDST": 985,
+        "LATITUDE": 49.5766965,
+        "LONGITUDE": 25.6535876,
+        "NAMEST": "Шевченка"
+    },
+    {
+        "IDNP": 10,
+        "IDST": 986,
+        "LATITUDE": 49.5915231,
+        "LONGITUDE": 25.6217302,
+        "NAMEST": "Лепкого"
+    },
+    {
+        "IDNP": 10,
+        "IDST": 987,
+        "LATITUDE": 49.5984411,
+        "LONGITUDE": 25.6301018,
+        "NAMEST": "Затишна"
+    },
+    {
+        "IDNP": 10,
+        "IDST": 988,
+        "LATITUDE": 49.603604,
+        "LONGITUDE": 25.6287002,
+        "NAMEST": "Лозовецька"
+    },
+    {
+        "IDNP": 10,
+        "IDST": 989,
+        "LATITUDE": 49.5910727,
+        "LONGITUDE": 25.6259596,
+        "NAMEST": "Мазепи"
+    },
+    {
+        "IDNP": 10,
+        "IDST": 990,
+        "LATITUDE": 49.5992235,
+        "LONGITUDE": 25.6304917,
+        "NAMEST": "Наливайка"
+    },
+    {
+        "IDNP": 10,
+        "IDST": 991,
+        "LATITUDE": 49.5989136,
+        "LONGITUDE": 25.6248456,
+        "NAMEST": "Зупинка"
+    },
+    {
+        "IDNP": 10,
+        "IDST": 992,
+        "LATITUDE": 49.5947734,
+        "LONGITUDE": 25.6258781,
+        "NAMEST": "Яблунева"
+    },
+    {
+        "IDNP": 10,
+        "IDST": 993,
+        "LATITUDE": 49.6025835,
+        "LONGITUDE": 25.6374266,
+        "NAMEST": "Яремчука"
+    },
+    {
+        "IDNP": 11,
+        "IDST": 994,
+        "LATITUDE": 49.5121505,
+        "LONGITUDE": 25.7654294,
+        "NAMEST": "Грушевського"
+    },
+    {
+        "IDNP": 11,
+        "IDST": 995,
+        "LATITUDE": 49.5284471,
+        "LONGITUDE": 25.7505987,
+        "NAMEST": "Залізнична"
+    },
+    {
+        "IDNP": 11,
+        "IDST": 996,
+        "LATITUDE": 49.5280439,
+        "LONGITUDE": 25.7579497,
+        "NAMEST": "Котляревського"
+    },
+    {
+        "IDNP": 11,
+        "IDST": 997,
+        "LATITUDE": 49.5264139,
+        "LONGITUDE": 25.7590056,
+        "NAMEST": "Коцюбинського"
+    },
+    {
+        "IDNP": 11,
+        "IDST": 998,
+        "LATITUDE": 49.5254724,
+        "LONGITUDE": 25.7692437,
+        "NAMEST": "Лесі Українки"
+    },
+    {
+        "IDNP": 11,
+        "IDST": 999,
+        "LATITUDE": 49.5296045,
+        "LONGITUDE": 25.7480204,
+        "NAMEST": "Провулок Садовий"
+    },
+    {
+        "IDNP": 11,
+        "IDST": "1 000",
+        "LATITUDE": 49.5242,
+        "LONGITUDE": 25.7567748,
+        "NAMEST": "Стрілецька"
+    },
+    {
+        "IDNP": 11,
+        "IDST": "1 001",
+        "LATITUDE": 49.5269963,
+        "LONGITUDE": 25.7604889,
+        "NAMEST": "Українська"
+    },
+    {
+        "IDNP": 11,
+        "IDST": "1 002",
+        "LATITUDE": 49.5220812,
+        "LONGITUDE": 25.7565987,
+        "NAMEST": "Франка"
+    },
+    {
+        "IDNP": 11,
+        "IDST": "1 003",
+        "LATITUDE": 49.5263021,
+        "LONGITUDE": 25.7573319,
+        "NAMEST": "Хмельницького"
+    },
+    {
+        "IDNP": 11,
+        "IDST": "1 004",
+        "LATITUDE": 49.5184695,
+        "LONGITUDE": 25.7606605,
+        "NAMEST": "Шевченка"
+    },
+    {
+        "IDNP": 11,
+        "IDST": "1 005",
+        "LATITUDE": 49.5255946,
+        "LONGITUDE": 25.7554118,
+        "NAMEST": "Шкільна"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 006",
+        "LATITUDE": 49.5054414,
+        "LONGITUDE": 25.6120075,
+        "NAMEST": "Хмельницького"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 007",
+        "LATITUDE": 49.4974333,
+        "LONGITUDE": 25.5978099,
+        "NAMEST": "Чорновола"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 010",
+        "LATITUDE": 49.4980915,
+        "LONGITUDE": 25.6229019,
+        "NAMEST": "Дубравська"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 011",
+        "LATITUDE": 49.4942746,
+        "LONGITUDE": 25.6229097,
+        "NAMEST": "Енергетична"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 012",
+        "LATITUDE": 49.496162,
+        "LONGITUDE": 25.6095058,
+        "NAMEST": "Зелена"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 013",
+        "LATITUDE": 49.5075002,
+        "LONGITUDE": 25.612183,
+        "NAMEST": "Козацька"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 014",
+        "LATITUDE": 49.4980131,
+        "LONGITUDE": 25.6173439,
+        "NAMEST": "Л. Українки"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 015",
+        "LATITUDE": 49.4986152,
+        "LONGITUDE": 25.6146962,
+        "NAMEST": "Механізаторів"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 016",
+        "LATITUDE": 49.5070614,
+        "LONGITUDE": 25.6053771,
+        "NAMEST": "Микулинецький провулок"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 017",
+        "LATITUDE": 49.5020933,
+        "LONGITUDE": 25.6132293,
+        "NAMEST": "Миру"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 018",
+        "LATITUDE": 49.4950232,
+        "LONGITUDE": 25.6035775,
+        "NAMEST": "Набережна"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 019",
+        "LATITUDE": 49.4958335,
+        "LONGITUDE": 25.597947,
+        "NAMEST": "Національного Відродження"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 020",
+        "LATITUDE": 49.4902785,
+        "LONGITUDE": 25.622948,
+        "NAMEST": "Перемоги"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 021",
+        "LATITUDE": 49.4981464,
+        "LONGITUDE": 25.5993537,
+        "NAMEST": "Подільська"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 022",
+        "LATITUDE": 49.489904,
+        "LONGITUDE": 25.6247548,
+        "NAMEST": "Польова"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 023",
+        "LATITUDE": 49.4719653,
+        "LONGITUDE": 25.6266198,
+        "NAMEST": "Промислова острів"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 024",
+        "LATITUDE": 49.4930408,
+        "LONGITUDE": 25.5984723,
+        "NAMEST": "Родини Ґеретів"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 025",
+        "LATITUDE": 49.494222,
+        "LONGITUDE": 25.6197754,
+        "NAMEST": "Садова"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 026",
+        "LATITUDE": 49.4934788,
+        "LONGITUDE": 25.621482,
+        "NAMEST": "Сонячна"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 027",
+        "LATITUDE": 49.5025096,
+        "LONGITUDE": 25.6150577,
+        "NAMEST": "Бандери"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 028",
+        "LATITUDE": 49.4943589,
+        "LONGITUDE": 25.6271069,
+        "NAMEST": "Степова"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 029",
+        "LATITUDE": 49.4910427,
+        "LONGITUDE": 25.6013486,
+        "NAMEST": "Шевченка"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 030",
+        "LATITUDE": 49.4989337,
+        "LONGITUDE": 25.6161799,
+        "NAMEST": "Трудова"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 031",
+        "LATITUDE": 49.5080647,
+        "LONGITUDE": 25.6124019,
+        "NAMEST": "Шкільний провулок"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 032",
+        "LATITUDE": 49.5041015,
+        "LONGITUDE": 25.609621,
+        "NAMEST": "Микулинецька"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 033",
+        "LATITUDE": 49.5905625,
+        "LONGITUDE": 25.5842768,
+        "NAMEST": "Богуна"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 034",
+        "LATITUDE": 49.5828568,
+        "LONGITUDE": 25.5856838,
+        "NAMEST": "Бродівська Бічна"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 035",
+        "LATITUDE": 49.5821704,
+        "LONGITUDE": 25.5817934,
+        "NAMEST": "Бродівська"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 036",
+        "LATITUDE": 49.5889049,
+        "LONGITUDE": 25.5823251,
+        "NAMEST": "Вишнева"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 037",
+        "LATITUDE": 49.5852351,
+        "LONGITUDE": 25.5726803,
+        "NAMEST": "Відродження"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 038",
+        "LATITUDE": 49.59094,
+        "LONGITUDE": 25.5778707,
+        "NAMEST": "Галицька"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 039",
+        "LATITUDE": 49.5896265,
+        "LONGITUDE": 25.5849389,
+        "NAMEST": "Грушевського"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 040",
+        "LATITUDE": 49.5912715,
+        "LONGITUDE": 25.5855412,
+        "NAMEST": "Дорошенка"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 041",
+        "LATITUDE": 49.5891105,
+        "LONGITUDE": 25.5855889,
+        "NAMEST": "Затишна"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 042",
+        "LATITUDE": 49.5892089,
+        "LONGITUDE": 25.5835247,
+        "NAMEST": "Зелена"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 043",
+        "LATITUDE": 49.590276,
+        "LONGITUDE": 25.5731666,
+        "NAMEST": "Івасюка"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 044",
+        "LATITUDE": 49.5914158,
+        "LONGITUDE": 25.5769419,
+        "NAMEST": "Київська"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 045",
+        "LATITUDE": 49.5880706,
+        "LONGITUDE": 25.5882432,
+        "NAMEST": "Козацька"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 046",
+        "LATITUDE": 49.5842658,
+        "LONGITUDE": 25.5741751,
+        "NAMEST": "Коновальця"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 047",
+        "LATITUDE": 49.5798957,
+        "LONGITUDE": 25.5770535,
+        "NAMEST": "Кос-Анатольського"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 048",
+        "LATITUDE": 49.5909996,
+        "LONGITUDE": 25.5717318,
+        "NAMEST": "Коцюбинського"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 049",
+        "LATITUDE": 49.585487,
+        "LONGITUDE": 25.5784331,
+        "NAMEST": "Крушельницької"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 050",
+        "LATITUDE": 49.5894478,
+        "LONGITUDE": 25.5729265,
+        "NAMEST": "Курбаса"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 051",
+        "LATITUDE": 49.5824382,
+        "LONGITUDE": 25.5759955,
+        "NAMEST": "Лесі Українки"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 053",
+        "LATITUDE": 49.5870975,
+        "LONGITUDE": 25.5868512,
+        "NAMEST": "Лисенка"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 054",
+        "LATITUDE": 49.5856838,
+        "LONGITUDE": 25.5706045,
+        "NAMEST": "Личаківського"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 055",
+        "LATITUDE": 49.5921426,
+        "LONGITUDE": 25.5875607,
+        "NAMEST": "Лісова"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 056",
+        "LATITUDE": 49.5847501,
+        "LONGITUDE": 25.5825513,
+        "NAMEST": "Мазепи"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 057",
+        "LATITUDE": 49.5851887,
+        "LONGITUDE": 25.5814534,
+        "NAMEST": "Провулок Мазепи"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 058",
+        "LATITUDE": 49.5903034,
+        "LONGITUDE": 25.5764172,
+        "NAMEST": "Медова"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 059",
+        "LATITUDE": 49.5804905,
+        "LONGITUDE": 25.5805225,
+        "NAMEST": "Миру"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 060",
+        "LATITUDE": 49.5888946,
+        "LONGITUDE": 25.5749278,
+        "NAMEST": "Молодіжна"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 061",
+        "LATITUDE": 49.5873892,
+        "LONGITUDE": 25.5905677,
+        "NAMEST": "Морозенка"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 062",
+        "LATITUDE": 49.5870625,
+        "LONGITUDE": 25.5879231,
+        "NAMEST": "Провулок Морозенка"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 063",
+        "LATITUDE": 49.5785028,
+        "LONGITUDE": 25.5727347,
+        "NAMEST": "Набережна"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 064",
+        "LATITUDE": 49.5901678,
+        "LONGITUDE": 25.5763208,
+        "NAMEST": "Надії"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 065",
+        "LATITUDE": 49.582167,
+        "LONGITUDE": 25.5780183,
+        "NAMEST": "Нова"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 066",
+        "LATITUDE": 49.5886086,
+        "LONGITUDE": 25.5875407,
+        "NAMEST": "Подільська"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 067",
+        "LATITUDE": 49.5931685,
+        "LONGITUDE": 25.5875114,
+        "NAMEST": "Польова"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 068",
+        "LATITUDE": 49.5816633,
+        "LONGITUDE": 25.5979488,
+        "NAMEST": "Промислова"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 069",
+        "LATITUDE": 49.5880131,
+        "LONGITUDE": 25.5789508,
+        "NAMEST": "Сагайдачного"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 070",
+        "LATITUDE": 49.5862313,
+        "LONGITUDE": 25.5818595,
+        "NAMEST": "Провулок Сагайдачного"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 072",
+        "LATITUDE": 49.5898681,
+        "LONGITUDE": 25.5722974,
+        "NAMEST": "Наливайка"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 074",
+        "LATITUDE": 49.5839894,
+        "LONGITUDE": 25.57871,
+        "NAMEST": "Сонячна"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 075",
+        "LATITUDE": 49.5783538,
+        "LONGITUDE": 25.5772405,
+        "NAMEST": "Стефаника"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 076",
+        "LATITUDE": 49.5896565,
+        "LONGITUDE": 25.5850946,
+        "NAMEST": "Українська"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 077",
+        "LATITUDE": 49.5826076,
+        "LONGITUDE": 25.5752263,
+        "NAMEST": "Франка"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 078",
+        "LATITUDE": 49.591306,
+        "LONGITUDE": 25.5743757,
+        "NAMEST": "Хмельницького"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 079",
+        "LATITUDE": 49.5892723,
+        "LONGITUDE": 25.5894036,
+        "NAMEST": "Чиста"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 080",
+        "LATITUDE": 49.5863543,
+        "LONGITUDE": 25.5853904,
+        "NAMEST": "Чумацька"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 081",
+        "LATITUDE": 49.5887164,
+        "LONGITUDE": 25.573167,
+        "NAMEST": "Шевченка"
+    },
+    {
+        "IDNP": 14,
+        "IDST": "1 082",
+        "LATITUDE": 49.5896006,
+        "LONGITUDE": 25.5765852,
+        "NAMEST": "Шкільна"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 417",
+        "LATITUDE": 49.5216089,
+        "LONGITUDE": 25.6421713,
+        "NAMEST": "Молодіжна"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 418",
+        "LATITUDE": 49.5213868,
+        "LONGITUDE": 25.644899,
+        "NAMEST": "Стефаника"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 419",
+        "LATITUDE": 49.5217557,
+        "LONGITUDE": 25.6590044,
+        "NAMEST": "Стуса бічна"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 420",
+        "LATITUDE": 49.5150049,
+        "LONGITUDE": 25.6640656,
+        "NAMEST": "Гагаріна бічна"
+    },
+    {
+        "IDNP": 2,
+        "IDST": "1 444",
+        "LATITUDE": 49.5255044,
+        "LONGITUDE": 25.5836706,
+        "NAMEST": "Долинна"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 421",
+        "LATITUDE": 49.5158238,
+        "LONGITUDE": 25.6614503,
+        "NAMEST": "Гайова бічна"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 422",
+        "LATITUDE": 49.5264249,
+        "LONGITUDE": 25.6195524,
+        "NAMEST": "Глибока"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 423",
+        "LATITUDE": 49.5172527,
+        "LONGITUDE": 25.6512802,
+        "NAMEST": "Гоголя"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 424",
+        "LATITUDE": 49.5270055,
+        "LONGITUDE": 25.6422672,
+        "NAMEST": "Дружби бічна"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 425",
+        "LATITUDE": 49.5186887,
+        "LONGITUDE": 25.6780335,
+        "NAMEST": "Залізнична"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 426",
+        "LATITUDE": 49.5199397,
+        "LONGITUDE": 25.6810882,
+        "NAMEST": "Залізнична бічна"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 427",
+        "LATITUDE": 49.521287,
+        "LONGITUDE": 25.657817,
+        "NAMEST": "Кобзаря"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 428",
+        "LATITUDE": 49.5284229,
+        "LONGITUDE": 25.6467973,
+        "NAMEST": "Франка бічна"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 429",
+        "LATITUDE": 49.5232671,
+        "LONGITUDE": 25.6397137,
+        "NAMEST": "Крушельницької"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 430",
+        "LATITUDE": 49.5162802,
+        "LONGITUDE": 25.6792111,
+        "NAMEST": "Яремчука"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 431",
+        "LATITUDE": 49.5171217,
+        "LONGITUDE": 25.6794353,
+        "NAMEST": "Бандери"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 432",
+        "LATITUDE": 49.5189051,
+        "LONGITUDE": 25.6738095,
+        "NAMEST": "Шевченка бічна"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 433",
+        "LATITUDE": 49.5178032,
+        "LONGITUDE": 25.6818259,
+        "NAMEST": "Грушевського"
+    },
+    {
+        "IDNP": 4,
+        "IDST": "1 434",
+        "LATITUDE": 49.5151993,
+        "LONGITUDE": 25.6780549,
+        "NAMEST": "Шептицького"
+    },
+    {
+        "IDNP": 5,
+        "IDST": "1 435",
+        "LATITUDE": 49.5380632,
+        "LONGITUDE": 25.5243845,
+        "NAMEST": "Бережанська"
+    },
+    {
+        "IDNP": 5,
+        "IDST": "1 436",
+        "LATITUDE": 49.5325567,
+        "LONGITUDE": 25.5291727,
+        "NAMEST": "Волинська"
+    },
+    {
+        "IDNP": 2,
+        "IDST": "1 445",
+        "LATITUDE": 49.5316372,
+        "LONGITUDE": 25.5713703,
+        "NAMEST": "Зелена"
+    },
+    {
+        "IDNP": 2,
+        "IDST": "1 446",
+        "LATITUDE": 49.5361576,
+        "LONGITUDE": 25.5646869,
+        "NAMEST": "Козацька"
+    },
+    {
+        "IDNP": 7,
+        "IDST": "1 453",
+        "LATITUDE": 49.527842,
+        "LONGITUDE": 25.7073831,
+        "NAMEST": "Набережна"
+    },
+    {
+        "IDNP": 9,
+        "IDST": "1 454",
+        "LATITUDE": 49.574874,
+        "LONGITUDE": 25.6474855,
+        "NAMEST": "Зелена бічна"
+    },
+    {
+        "IDNP": 10,
+        "IDST": "1 457",
+        "LATITUDE": 49.6014483,
+        "LONGITUDE": 25.6328098,
+        "NAMEST": "Кривоноса"
+    },
+    {
+        "IDNP": 10,
+        "IDST": "1 458",
+        "LATITUDE": 49.5980558,
+        "LONGITUDE": 25.6265594,
+        "NAMEST": "Крушельницької"
+    },
+    {
+        "IDNP": 10,
+        "IDST": "1 459",
+        "LATITUDE": 49.585,
+        "LONGITUDE": 25.6291667,
+        "NAMEST": "Л. Українки"
+    },
+    {
+        "IDNP": 10,
+        "IDST": "1 462",
+        "LATITUDE": 49.5938518,
+        "LONGITUDE": 25.6234622,
+        "NAMEST": "Марусі Чурай"
+    },
+    {
+        "IDNP": 10,
+        "IDST": "1 468",
+        "LATITUDE": 49.6002522,
+        "LONGITUDE": 25.6294406,
+        "NAMEST": "Сонячна"
+    },
+    {
+        "IDNP": 10,
+        "IDST": "1 470",
+        "LATITUDE": 49.6007115,
+        "LONGITUDE": 25.6327664,
+        "NAMEST": "Стуса"
+    },
+    {
+        "IDNP": 10,
+        "IDST": "1 472",
+        "LATITUDE": 49.5924346,
+        "LONGITUDE": 25.6245721,
+        "NAMEST": "Тернопільська"
+    },
+    {
+        "IDNP": 10,
+        "IDST": "1 473",
+        "LATITUDE": 49.5927594,
+        "LONGITUDE": 25.6259884,
+        "NAMEST": "Тернопільська бічна"
+    },
+    {
+        "IDNP": 10,
+        "IDST": "1 477",
+        "LATITUDE": 49.5814661,
+        "LONGITUDE": 25.6362205,
+        "NAMEST": "Козацька"
+    },
+    {
+        "IDNP": 11,
+        "IDST": "1 487",
+        "LATITUDE": 49.5171667,
+        "LONGITUDE": 25.7566389,
+        "NAMEST": "Дичківська"
+    },
+    {
+        "IDNP": 13,
+        "IDST": "1 504",
+        "LATITUDE": 49.5600412,
+        "LONGITUDE": 25.6791769,
+        "NAMEST": "Гайова"
+    },
+    {
+        "IDNP": 13,
+        "IDST": "1 505",
+        "LATITUDE": 49.5562585,
+        "LONGITUDE": 25.6879719,
+        "NAMEST": "Вишневецького"
+    },
+    {
+        "IDNP": 25,
+        "IDST": "1 506",
+        "LATITUDE": 49.5895249,
+        "LONGITUDE": 25.667854,
+        "NAMEST": "Барвінських"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 681",
+        "LATITUDE": 49.4916056,
+        "LONGITUDE": 25.6201512,
+        "NAMEST": "Глибока бічна"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 682",
+        "LATITUDE": 49.4921757,
+        "LONGITUDE": 25.6204225,
+        "NAMEST": "Глибока"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 683",
+        "LATITUDE": 49.4929321,
+        "LONGITUDE": 25.6183657,
+        "NAMEST": "Гагаріна"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 684",
+        "LATITUDE": 49.4922874,
+        "LONGITUDE": 25.618197,
+        "NAMEST": "Березова"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 685",
+        "LATITUDE": 49.4905126,
+        "LONGITUDE": 25.6212256,
+        "NAMEST": "Дружби"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 686",
+        "LATITUDE": 49.4929626,
+        "LONGITUDE": 25.6233074,
+        "NAMEST": "Дружби бічна"
+    },
+    {
+        "IDNP": 24,
+        "IDST": "1 675",
+        "LATITUDE": 49.506148,
+        "LONGITUDE": 25.6156926,
+        "NAMEST": "Гірняка"
+    },
+    {
+        "IDNP": 24,
+        "IDST": "1 676",
+        "LATITUDE": 49.5075059,
+        "LONGITUDE": 25.6126095,
+        "NAMEST": "Козацька"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 687",
+        "LATITUDE": 49.497697,
+        "LONGITUDE": 25.5979348,
+        "NAMEST": "Білецького"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 688",
+        "LATITUDE": 49.4968743,
+        "LONGITUDE": 25.5911211,
+        "NAMEST": "Братів Підгайних"
+    },
+    {
+        "IDNP": 24,
+        "IDST": "1 677",
+        "LATITUDE": 49.5091633,
+        "LONGITUDE": 25.6038871,
+        "NAMEST": "Провулок Микулинецький"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 689",
+        "LATITUDE": 49.5019712,
+        "LONGITUDE": 25.6187471,
+        "NAMEST": "Весняна"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 690",
+        "LATITUDE": 49.4986168,
+        "LONGITUDE": 25.6147728,
+        "NAMEST": "Вишнева"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 691",
+        "LATITUDE": 49.4977911,
+        "LONGITUDE": 25.6246093,
+        "NAMEST": "Галицька"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 692",
+        "LATITUDE": 49.4963081,
+        "LONGITUDE": 25.6287997,
+        "NAMEST": "Гаївська"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 693",
+        "LATITUDE": 49.4944223,
+        "LONGITUDE": 25.585745,
+        "NAMEST": "Дачна острів"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 694",
+        "LATITUDE": 49.49878,
+        "LONGITUDE": 25.6224,
+        "NAMEST": "Дубравська бічна"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 695",
+        "LATITUDE": 49.4977893,
+        "LONGITUDE": 25.6261997,
+        "NAMEST": "Злуки"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 696",
+        "LATITUDE": 49.498576,
+        "LONGITUDE": 25.6214574,
+        "NAMEST": "Стуса"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 697",
+        "LATITUDE": 49.4963884,
+        "LONGITUDE": 25.6272186,
+        "NAMEST": "Чумацька"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 698",
+        "LATITUDE": 49.4879527,
+        "LONGITUDE": 25.5819198,
+        "NAMEST": "Кордуби острів"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 699",
+        "LATITUDE": 49.491357,
+        "LONGITUDE": 25.5882955,
+        "NAMEST": "Молодіжна острів"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 700",
+        "LATITUDE": 49.4971645,
+        "LONGITUDE": 25.5923929,
+        "NAMEST": "Січових срільців"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 701",
+        "LATITUDE": 49.4947506,
+        "LONGITUDE": 25.5955726,
+        "NAMEST": "Франка"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 702",
+        "LATITUDE": 49.487841,
+        "LONGITUDE": 25.593333,
+        "NAMEST": "Шкільна"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 703",
+        "LATITUDE": 49.4965672,
+        "LONGITUDE": 25.5954177,
+        "NAMEST": "Медова"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 704",
+        "LATITUDE": 25.5954177,
+        "LONGITUDE": 25.5927141,
+        "NAMEST": "Петриківська"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 705",
+        "LATITUDE": 49.5065897,
+        "LONGITUDE": 25.6126282,
+        "NAMEST": "Гірняка"
+    },
+    {
+        "IDNP": 58,
+        "IDST": "1 707",
+        "LATITUDE": 49.4914474,
+        "LONGITUDE": 25.5896264,
+        "NAMEST": "Відродження"
+    },
+    {
+        "IDNP": 58,
+        "IDST": "1 708",
+        "LATITUDE": 49.4944223,
+        "LONGITUDE": 25.585745,
+        "NAMEST": "Дачна"
+    },
+    {
+        "IDNP": 58,
+        "IDST": "1 710",
+        "LATITUDE": 49.490776,
+        "LONGITUDE": 25.605512,
+        "NAMEST": "Жовтнева"
+    },
+    {
+        "IDNP": 58,
+        "IDST": "1 711",
+        "LATITUDE": 49.495326,
+        "LONGITUDE": 25.5804397,
+        "NAMEST": "Зелена"
+    },
+    {
+        "IDNP": 58,
+        "IDST": "1 712",
+        "LATITUDE": 49.494428,
+        "LONGITUDE": 25.5913886,
+        "NAMEST": "Франка"
+    },
+    {
+        "IDNP": 58,
+        "IDST": "1 714",
+        "LATITUDE": 49.4879527,
+        "LONGITUDE": 25.5819198,
+        "NAMEST": "Кордуби"
+    },
+    {
+        "IDNP": 58,
+        "IDST": "1 718",
+        "LATITUDE": 49.4919689,
+        "LONGITUDE": 25.5868522,
+        "NAMEST": "Молодіжна"
+    },
+    {
+        "IDNP": 58,
+        "IDST": "1 723",
+        "LATITUDE": 49.4884884,
+        "LONGITUDE": 25.5965573,
+        "NAMEST": "Шевченка"
+    },
+    {
+        "IDNP": 58,
+        "IDST": "1 725",
+        "LATITUDE": 49.4719653,
+        "LONGITUDE": 25.6266198,
+        "NAMEST": "Промислова"
+    },
+    {
+        "IDNP": 58,
+        "IDST": "1 726",
+        "LATITUDE": 49.4873798,
+        "LONGITUDE": 25.5900124,
+        "NAMEST": "Шкільна"
+    },
+    {
+        "IDNP": 12,
+        "IDST": "1 727",
+        "LATITUDE": 49.4897854,
+        "LONGITUDE": 25.5961054,
+        "NAMEST": "Ланова"
+    }
+]

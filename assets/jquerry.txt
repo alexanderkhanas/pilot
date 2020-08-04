@@ -1,0 +1,60 @@
+function changeScreenStateOLD() {
+  rtc.screenClient = AgoraRTC.createClient({ mode: "rtc", codec: "vp8" }); // Create a client: live = broadcast
+
+  rtc.screenClient.init(option.appID, function () {
+    rtc.screenClient.join(null, option.channel, null, function (uid) {
+
+      rtc.uids.push(uid); // Save the uid of the local stream.
+
+      const streamSpec = { // Create the stream for screen sharing.
+        streamID: uid,
+        audio: false,
+        video: false,
+        screen: true
+      }
+
+      /*
+      if( isFirefox() ) { // Set relevant attributes according to the browser.
+        streamSpec.mediaSource = 'window';
+      } else if( !isCompatibleChrome() ) {
+        streamSpec.extensionId = 'minllpmhdgpndnkomcoccfekfegnlikg'; // plugin of chrome
+      }
+      */
+
+      rtc.screenStream = AgoraRTC.createStream(streamSpec);
+
+      rtc.remoteStreams.push(rtc.videoStream);
+
+      rtc.screenStream.init(function () { // Initialize the stream
+        // rtc.screenStream.setScreenProfile("720p_2"); // needs test
+
+        // https://docs.agora.io/en/Video/API%20Reference/web/interfaces/agorartc.stream.html#setvideoprofile
+        rtc.screenStream.setScreenProfile("720p_2");
+        rtc.screenStream.setVideoProfile("720p_2");
+        rtc.screenStream.play("first-position-videodiv");
+
+        rtc.screenClient.publish(rtc.screenStream); // Publish the stream.
+      }, function (err) {
+        console.log(err);
+      });
+
+      rtc.screenStream.on("stopScreenSharing", function (evt) {
+
+        var remoteStream = rtc.screenStream;
+        var id = remoteStream.getId();
+
+        rtc.screenStream.stop(); // Stop playing the stream.
+        rtc.screenStream.close();
+
+        removeView(id); // Remove the view of the remote stream.
+
+        rtc.uids.splice($.inArray(id, rtc.uids), 1);
+
+        showLog("WWWWWWW: 27 - rtc.screenStream : stopScreenSharing: " + id);
+      });
+    }, function (err) {
+      console.log(err);
+    })
+  });
+
+}

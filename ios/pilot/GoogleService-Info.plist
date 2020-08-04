@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>355689690012-vgk65la327qi17n61r6am4r6h4oipg6m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.355689690012-vgk65la327qi17n61r6am4r6h4oipg6m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBNEaZJrwpAPF46kPyHRvpPnIYVCwYN58</string>
+	<key>GCM_SENDER_ID</key>
+	<string>355689690012</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.pilot</string>
+	<key>PROJECT_ID</key>
+	<string>pilot-e79e4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pilot-e79e4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:355689690012:ios:c36435ab206cb86c92ce59</string>
+	<key>DATABASE_URL</key>
+	<string>https://pilot-e79e4.firebaseio.com</string>
+</dict>
+</plist>
